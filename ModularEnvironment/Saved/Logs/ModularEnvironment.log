@@ -1657,3 +1657,1226 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.16-17.22.32:358][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 380 ms)
 [2024.06.16-17.22.32:360][108]AssetCheck: New page: Asset Save: TokyoStreet
 [2024.06.16-17.22.32:360][108]LogContentValidation: Display: Validating /Script/Engine.World /Game/TokyoStreet.TokyoStreet
+[2024.06.16-17.23.18:449][466]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/marin/Desktop/Exports Textures/FBX/Suelo.fbx)
+[2024.06.16-17.23.18:503][466]LogFbx: Loading FBX Scene from C:/Users/marin/Desktop/Exports Textures/FBX/Suelo.fbx
+[2024.06.16-17.23.18:522][466]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.16-17.23.20:077][466]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.06.16-17.23.20:169][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Normal_01
+[2024.06.16-17.23.20:176][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Normal_01...
+[2024.06.16-17.23.20:180][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-17.23.20:193][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Normal_Mitad
+[2024.06.16-17.23.20:194][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Normal_Mitad...
+[2024.06.16-17.23.20:197][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Normal_Mitad.Suelo_Losa_Modulo_Normal_Mitad
+[2024.06.16-17.23.20:208][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Rampa
+[2024.06.16-17.23.20:210][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Rampa...
+[2024.06.16-17.23.20:214][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Rampa.Suelo_Losa_Modulo_Rampa
+[2024.06.16-17.23.20:225][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Plano_01
+[2024.06.16-17.23.20:225][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Plano_01...
+[2024.06.16-17.23.20:227][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01
+[2024.06.16-17.23.20:234][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Normal_02
+[2024.06.16-17.23.20:237][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Normal_02...
+[2024.06.16-17.23.20:240][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Normal_02.Suelo_Losa_Modulo_Normal_02
+[2024.06.16-17.23.20:251][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Esquina
+[2024.06.16-17.23.20:254][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Esquina...
+[2024.06.16-17.23.20:259][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Esquina.Suelo_Losa_Modulo_Esquina
+[2024.06.16-17.23.20:269][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Ladrillo_01
+[2024.06.16-17.23.20:270][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Ladrillo_01...
+[2024.06.16-17.23.20:272][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01
+[2024.06.16-17.23.20:283][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Plano_02
+[2024.06.16-17.23.20:284][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Plano_02...
+[2024.06.16-17.23.20:285][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Plano_02.Suelo_Losa_Modulo_Plano_02
+[2024.06.16-17.23.20:293][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Ladrillo_02
+[2024.06.16-17.23.20:295][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Ladrillo_02...
+[2024.06.16-17.23.20:300][466]LogStaticMesh: Built static mesh [0.01s] /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_02.Suelo_Losa_Modulo_Ladrillo_02
+[2024.06.16-17.23.20:310][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Ladrillo_03
+[2024.06.16-17.23.20:312][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Ladrillo_03...
+[2024.06.16-17.23.20:316][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_03.Suelo_Losa_Modulo_Ladrillo_03
+[2024.06.16-17.23.20:327][466]LogFbx: Display: Triangulating static mesh Losa_Modulo_Ladrillo_04
+[2024.06.16-17.23.20:329][466]LogStaticMesh: Display: Building static mesh Suelo_Losa_Modulo_Ladrillo_04...
+[2024.06.16-17.23.20:332][466]LogStaticMesh: Built static mesh [0.00s] /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_04.Suelo_Losa_Modulo_Ladrillo_04
+[2024.06.16-17.23.20:679][466]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: ================================================
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Total job queries 45, among them cache hits 0 (0.00%)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 38 distinct outputs (90.48%)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: RAM used: 1,19 MiB of 1,60 GiB budget. Usage: 0.07%
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Shaders Compiled: 42
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Jobs assigned 45, completed 42 (93.33%)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Average time worker was idle: 20.69 s
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 3.08 s
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Job execution time: average 3.32 s, max 5.42 s
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Job life time (pending + execution): average 3.87 s, max 5.43
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Shader code size: average 48,812 KiB, min 29,711 KiB, max 72,258 KiB
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.04 s
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 2.25 jobs/batch
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Average processing rate: 6.95 jobs/sec
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Total thread time: 28,189 s
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Total thread preprocess time: 1,334 s
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Percentage time preprocessing: 4.73%
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Effective parallelization: 4.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.53 sec, min 0.41 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 0.96 sec, max 1.51 sec, min 0.41 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.91 sec, max 1.40 sec, min 0.42 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.89 sec, max 1.40 sec, min 0.38 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.91% of total time (compiled    2 times, average 0.97 sec, max 1.53 sec, min 0.41 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 6.80% of total time (compiled    2 times, average 0.96 sec, max 1.51 sec, min 0.41 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.44% of total time (compiled    2 times, average 0.91 sec, max 1.40 sec, min 0.42 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.29% of total time (compiled    2 times, average 0.89 sec, max 1.40 sec, min 0.38 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.19% of total time (compiled    2 times, average 0.87 sec, max 1.35 sec, min 0.40 sec)
+[2024.06.16-17.23.21:543][513]LogShaderCompilers: Display: ================================================
+[2024.06.16-17.23.23:969][742]LogSlate: Window 'Message Log' being destroyed
+[2024.06.16-17.23.23:975][742]LogSlate: Window 'Message Log' being destroyed
+[2024.06.16-17.23.26:105][964]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.23.26:116][964]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.23.26:126][965]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.23.30:255][435]LogContentBrowser: Attempting asset rename: NewFolder -> Suelo_Materials
+[2024.06.16-17.23.30:255][435]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.23.32:562][684]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.23.32:576][684]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.23.32:588][685]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.23.36:737][165]LogContentBrowser: Attempting asset rename: NewFolder -> Suelo_Textures
+[2024.06.16-17.23.36:737][165]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.23.40:527][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-17.23.41:331][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Esquina1
+[2024.06.16-17.23.41:331][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Esquina19DCA5388416A21E851F0D5A37EB177AC.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Esquina1.uasset'
+[2024.06.16-17.23.41:349][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_01
+[2024.06.16-17.23.41:349][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Ladrillo_01B1C553A9424B882A089B27BEF78362D3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_01.uasset'
+[2024.06.16-17.23.41:368][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_02
+[2024.06.16-17.23.41:368][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Ladrillo_023CB230B34B0370FA0E90C29A13E8DBC1.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_02.uasset'
+[2024.06.16-17.23.41:389][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_03
+[2024.06.16-17.23.41:389][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Ladrillo_030B2A50204EEDC0533A29518B7C912ED3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_03.uasset'
+[2024.06.16-17.23.41:408][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_04
+[2024.06.16-17.23.41:408][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Ladrillo_042C8627F74F737D23489D9FB22D7530C0.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_04.uasset'
+[2024.06.16-17.23.41:427][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Normal_01
+[2024.06.16-17.23.41:427][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Normal_0135373FA34ACB758AF6AD869F780A4D02.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Normal_01.uasset'
+[2024.06.16-17.23.41:445][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Normal_02
+[2024.06.16-17.23.41:445][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Normal_02984E9B54482B1EF58EF922A3F7BBDBCD.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Normal_02.uasset'
+[2024.06.16-17.23.41:463][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Normal_Mitad
+[2024.06.16-17.23.41:463][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Normal_Mitad87FEF41B4F8EE81CAE2D799F7F26A587.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Normal_Mitad.uasset'
+[2024.06.16-17.23.41:482][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Plano_01
+[2024.06.16-17.23.41:482][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Plano_0129158ABD40F5A709EC07D0AAB3166645.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Plano_01.uasset'
+[2024.06.16-17.23.41:500][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Plano_02
+[2024.06.16-17.23.41:500][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Plano_02C81C066E4170C642F9F19F850A65DF40.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Plano_02.uasset'
+[2024.06.16-17.23.41:518][537]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Materials/Losa_Modulo_Rampa
+[2024.06.16-17.23.41:518][537]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Losa_Modulo_Rampa8FECEBE64A5E37D6851B2A83D1CCF3ED.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Materials/Losa_Modulo_Rampa.uasset'
+[2024.06.16-17.23.41:526][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 999 ms (total: 1.38 sec)
+[2024.06.16-17.23.41:551][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.16-17.23.41:556][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.06.16-17.23.41:560][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.16-17.23.41:570][537]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Esquina1.Losa_Modulo_Esquina1
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_01.Losa_Modulo_Ladrillo_01
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_02.Losa_Modulo_Ladrillo_02
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_03.Losa_Modulo_Ladrillo_03
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Ladrillo_04.Losa_Modulo_Ladrillo_04
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Normal_01.Losa_Modulo_Normal_01
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Normal_02.Losa_Modulo_Normal_02
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Normal_Mitad.Losa_Modulo_Normal_Mitad
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Plano_01.Losa_Modulo_Plano_01
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Plano_02.Losa_Modulo_Plano_02
+[2024.06.16-17.23.41:570][537]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Suelo/Suelo_Materials/Losa_Modulo_Rampa.Losa_Modulo_Rampa
+[2024.06.16-17.23.49:988][776]LogInterchangeEngine: [Pending] Importing
+[2024.06.16-17.23.49:988][776]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Esquina_BaseColor.png]
+[2024.06.16-17.23.49:988][776]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.23.49:988][776]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Esquina_Normal.png]
+[2024.06.16-17.23.49:989][776]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.23.49:989][776]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Esquina_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.49:989][776]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.06.16-17.23.49:989][776]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_01_BaseColor.png]
+[2024.06.16-17.23.49:990][776]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.06.16-17.23.49:990][776]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_01_Normal.png]
+[2024.06.16-17.23.49:990][776]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.49:990][776]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_01_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.49:991][776]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.06.16-17.23.49:991][776]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_02_BaseColor.png]
+[2024.06.16-17.23.49:991][776]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.06.16-17.23.49:991][776]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.06.16-17.23.49:992][776]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.06.16-17.23.49:992][776]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.06.16-17.23.49:993][776]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.06.16-17.23.49:993][776]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.06.16-17.23.49:993][776]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.06.16-17.23.49:994][776]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.06.16-17.23.49:994][776]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.06.16-17.23.49:995][776]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.06.16-17.23.49:995][776]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.06.16-17.23.49:995][776]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.06.16-17.23.49:996][776]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.06.16-17.23.49:996][776]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.06.16-17.23.49:997][776]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.06.16-17.23.49:997][776]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.06.16-17.23.49:997][776]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.06.16-17.23.49:998][776]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.06.16-17.23.49:998][776]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.06.16-17.23.49:998][776]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.06.16-17.23.49:999][776]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.06.16-17.23.49:999][776]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.06.16-17.23.50:000][776]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.06.16-17.23.50:000][776]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.06.16-17.23.50:000][776]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.06.16-17.23.50:001][776]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.06.16-17.23.50:001][776]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.06.16-17.23.50:001][776]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.06.16-17.23.50:002][776]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.06.16-17.23.50:054][777]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.06.16-17.23.50:066][777]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.06.16-17.23.50:070][777]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.06.16-17.23.50:082][778]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_BaseColor.Suelo_Losa_Modulo_Ladrillo_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_02_Normal.png]
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_02_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:086][778]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.06.16-17.23.50:087][778]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_03_BaseColor.png]
+[2024.06.16-17.23.50:092][778]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:092][778]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_BaseColor.Suelo_Losa_Modulo_Ladrillo_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:156][779]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:156][779]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.06.16-17.23.50:156][779]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_03_Normal.png]
+[2024.06.16-17.23.50:156][779]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:156][779]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.06.16-17.23.50:156][779]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_03_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.50:225][780]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.06.16-17.23.50:231][780]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.50:241][780]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_BaseColor.Suelo_Losa_Modulo_Esquina_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:241][780]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Esquina_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:242][780]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_Normal.Suelo_Losa_Modulo_Ladrillo_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:252][780]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.50:254][780]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:254][780]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.06.16-17.23.50:254][780]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_04_BaseColor.png]
+[2024.06.16-17.23.50:263][780]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:263][780]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.06.16-17.23.50:263][780]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_04_Normal.png]
+[2024.06.16-17.23.50:268][780]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:268][780]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.06.16-17.23.50:268][780]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Ladrillo_04_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.50:269][780]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:269][780]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.06.16-17.23.50:269][780]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_01_BaseColor.png]
+[2024.06.16-17.23.50:269][780]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:269][780]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.06.16-17.23.50:269][780]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_01_Normal.png]
+[2024.06.16-17.23.50:282][780]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_02_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:283][780]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_Normal.Suelo_Losa_Modulo_Esquina_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:316][780]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_BaseColor.Suelo_Losa_Modulo_Ladrillo_03_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:379][780]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.50:391][780]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.50:397][781]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.06.16-17.23.50:422][781]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_03_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:518][781]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:518][781]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.06.16-17.23.50:518][781]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_01_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.50:518][781]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:518][781]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.06.16-17.23.50:518][781]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_02_BaseColor.png]
+[2024.06.16-17.23.50:609][782]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:609][782]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.06.16-17.23.50:609][782]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_02_Normal.png]
+[2024.06.16-17.23.50:609][782]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:609][782]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.06.16-17.23.50:610][782]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_02_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.50:610][782]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:610][782]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.06.16-17.23.50:610][782]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_Mitad_BaseColor.png]
+[2024.06.16-17.23.50:619][782]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.50:631][782]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.50:636][782]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:636][782]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.06.16-17.23.50:636][782]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_Mitad_Normal.png]
+[2024.06.16-17.23.50:636][782]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:636][782]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.06.16-17.23.50:636][782]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Normal_Mitad_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.50:643][782]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_Normal.Suelo_Losa_Modulo_Ladrillo_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:643][782]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_Normal.Suelo_Losa_Modulo_Ladrillo_03_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:703][783]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_BaseColor.Suelo_Losa_Modulo_Ladrillo_04_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:705][783]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_04_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:731][783]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_BaseColor.Suelo_Losa_Modulo_Normal_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:758][783]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_Normal.Suelo_Losa_Modulo_Ladrillo_04_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:829][783]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_Normal.Suelo_Losa_Modulo_Normal_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.50:865][783]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:865][783]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.06.16-17.23.50:866][783]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_01_BaseColor.png]
+[2024.06.16-17.23.50:866][783]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:866][783]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.06.16-17.23.50:866][783]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_01_Normal.png]
+[2024.06.16-17.23.50:866][783]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:866][783]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.06.16-17.23.50:866][783]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_01_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.50:872][784]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.50:872][784]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.06.16-17.23.50:872][784]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_02_BaseColor.png]
+[2024.06.16-17.23.50:886][784]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.51:014][784]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:014][784]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.06.16-17.23.51:014][784]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_02_Normal.png]
+[2024.06.16-17.23.51:137][786]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:137][786]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.06.16-17.23.51:137][786]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_02_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.51:145][786]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.51:195][787]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Normal_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:197][787]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:197][787]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.06.16-17.23.51:197][787]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_BaseColor.png]
+[2024.06.16-17.23.51:239][788]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_BaseColor.Suelo_Losa_Modulo_Normal_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:258][788]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_BaseColor.Suelo_Losa_Modulo_Normal_Mitad_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:259][788]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Normal_Mitad_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:261][788]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_Normal.Suelo_Losa_Modulo_Normal_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:273][788]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Normal_02_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:289][788]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:289][788]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.06.16-17.23.51:289][788]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_Normal.png]
+[2024.06.16-17.23.51:322][788]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.51:334][789]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_Normal.Suelo_Losa_Modulo_Normal_Mitad_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:421][789]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:421][789]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.06.16-17.23.51:421][789]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Plano_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.51:421][789]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:421][789]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.06.16-17.23.51:421][789]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Rampa_BaseColor.png]
+[2024.06.16-17.23.51:422][789]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:422][789]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.06.16-17.23.51:422][789]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Rampa_Normal.png]
+[2024.06.16-17.23.51:446][789]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.51:619][791]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:619][791]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.06.16-17.23.51:619][791]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...tures/Textures/Suelo/Suelo_Losa_Modulo_Rampa_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.23.51:620][791]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.23.51:876][797]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_BaseColor.Suelo_Losa_Modulo_Plano_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:878][797]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Plano_01_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:917][799]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_BaseColor.Suelo_Losa_Modulo_Plano_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:917][799]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.06.16-17.23.51:918][799]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_Normal.Suelo_Losa_Modulo_Plano_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.51:930][799]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_Normal.Suelo_Losa_Modulo_Plano_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.52:002][800]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Plano_02_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.52:006][801]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.06.16-17.23.52:042][801]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.52:059][801]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_BaseColor.Suelo_Losa_Modulo_Plano_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.52:083][802]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.23.52:253][805]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.23.52:342][807]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.23.52:455][809]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.06.16-17.23.52:720][816]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.23.52:721][816]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_BaseColor.Suelo_Losa_Modulo_Rampa_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.52:745][817]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.23.52:794][817]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Rampa_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.52:794][817]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_Normal.Suelo_Losa_Modulo_Rampa_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.52:829][817]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Plano_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.23.52:833][817]LogTexture: Display: Building textures: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_Normal.Suelo_Losa_Modulo_Plano_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.24.28:003][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.06.16-17.24.28:004][422]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.06.16-17.24.28:005][422]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_0
+[2024.06.16-17.24.28:012][422]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_0
+[2024.06.16-17.24.28:465][456]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.06.16-17.24.28:466][456]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.06.16-17.24.28:467][456]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_1
+[2024.06.16-17.24.28:467][456]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_1
+[2024.06.16-17.24.44:489][974]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-17.25.14:012][918]LogPhysics: Warning: Scale for /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=200.000 Y=200.000 Z=0.000
+[2024.06.16-17.25.14:012][918]LogPhysics: Warning: Scale for /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=200.000 Y=200.000 Z=0.000
+[2024.06.16-17.25.27:342][303]LogEditorViewport: Clicking Background
+[2024.06.16-17.25.27:831][355]LogEditorViewport: Clicking Background
+[2024.06.16-17.25.32:342][813]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.25.32:354][813]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.25.32:404][815]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.25.33:752][960]LogContentBrowser: Attempting asset rename: NewFolder -> Fence
+[2024.06.16-17.25.33:752][960]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.25.35:662][168]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.25.35:670][168]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.25.35:677][169]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.25.38:895][518]LogContentBrowser: Attempting asset rename: NewFolder -> Fence_material
+[2024.06.16-17.25.38:895][518]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.25.41:273][780]LogContentBrowser: Attempting asset rename: Fence_material -> Fence_material
+[2024.06.16-17.25.50:999][917]LogContentBrowser: Attempting asset rename: Fence_material -> Fence_material
+[2024.06.16-17.25.55:661][412]LogContentBrowser: Attempting asset rename: Fence_material -> Fence_mawterial
+[2024.06.16-17.26.01:248][ 38]LogContentBrowser: Attempting asset rename: Fence_mawterial -> Fence_Matterial
+[2024.06.16-17.26.05:346][493]LogContentBrowser: Attempting asset rename: Fence_Matterial -> Fence_Material
+[2024.06.16-17.26.08:634][840]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.26.08:646][840]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.26.08:653][841]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.26.13:297][356]LogContentBrowser: Attempting asset rename: NewFolder -> Fence_Textures
+[2024.06.16-17.26.13:297][356]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.26.15:130][555]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.06.16-17.26.15:130][555]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.06.16-17.26.22:103][859]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/marin/Desktop/Exports Textures/FBX Props/Fence.fbx)
+[2024.06.16-17.26.22:108][859]LogFbx: Loading FBX Scene from C:/Users/marin/Desktop/Exports Textures/FBX Props/Fence.fbx
+[2024.06.16-17.26.22:118][859]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.16-17.26.22:982][859]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.06.16-17.26.23:034][859]LogFbx: Display: Triangulating static mesh Fence
+[2024.06.16-17.26.23:045][859]LogStaticMesh: Display: Building static mesh Fence...
+[2024.06.16-17.26.23:055][859]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Fence/Fence.Fence
+[2024.06.16-17.26.23:057][859]LogStaticMesh: Warning: Fence has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.06.16-17.26.23:057][859]LogStaticMesh: Warning: Fence has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.06.16-17.26.23:074][859]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.06.16-17.26.23:074][859]FBXImport: Warning: Fence has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.06.16-17.26.23:074][859]FBXImport: Warning: Fence has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: ================================================
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Total job queries 229, among them cache hits 172 (75.11%)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 49 distinct outputs (85.96%)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: RAM used: 1,56 MiB of 1,60 GiB budget. Usage: 0.10%
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Shaders Compiled: 57
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Jobs assigned 57, completed 57 (100%)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Average time worker was idle: 27.00 s
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Time job spent in pending queue: average 0.43 s, longest 3.08 s
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Job execution time: average 2.57 s, max 5.42 s
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Job life time (pending + execution): average 3.01 s, max 5.43
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Shader code size: average 47,204 KiB, min 29,711 KiB, max 72,258 KiB
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.86 s
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.78 jobs/batch
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Average processing rate: 8.31 jobs/sec
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Total thread time: 32,215 s
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Total thread preprocess time: 1,757 s
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Percentage time preprocessing: 5.45%
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Effective parallelization: 4.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.53 sec, min 0.41 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 0.96 sec, max 1.51 sec, min 0.41 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 0.85 sec, max 1.31 sec, min 0.39 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 0.82 sec, max 1.25 sec, min 0.38 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.59% of total time (compiled    3 times, average 0.71 sec, max 1.40 sec, min 0.31 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.35% of total time (compiled    3 times, average 0.68 sec, max 1.40 sec, min 0.27 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.26% of total time (compiled    3 times, average 0.67 sec, max 1.35 sec, min 0.27 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.19% of total time (compiled    3 times, average 0.66 sec, max 1.25 sec, min 0.30 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.04% of total time (compiled    2 times, average 0.97 sec, max 1.53 sec, min 0.41 sec)
+[2024.06.16-17.26.23:194][860]LogShaderCompilers: Display: ================================================
+[2024.06.16-17.26.25:779][113]LogSlate: Window 'Message Log' being destroyed
+[2024.06.16-17.26.25:785][113]LogSlate: Window 'Message Log' being destroyed
+[2024.06.16-17.26.31:462][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-17.26.31:577][692]LogSavePackage: Moving output files for package: /Game/Props/Fence/Fence_Material/Fence1
+[2024.06.16-17.26.31:577][692]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Fence15D754CBE4C7AB113BF7EF3828AEFCDFF.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/Fence_Material/Fence1.uasset'
+[2024.06.16-17.26.31:584][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1.50 sec)
+[2024.06.16-17.26.31:593][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.16-17.26.31:601][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.16-17.26.31:603][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.16-17.26.31:614][692]AssetCheck: New page: Asset Save: Fence1
+[2024.06.16-17.26.31:614][692]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Props/Fence/Fence_Material/Fence1.Fence1
+[2024.06.16-17.26.37:442][193]LogContentBrowser: Attempting asset rename: Fence -> P_Fence
+[2024.06.16-17.26.37:466][193]LogMetaData: Removing '/Game/Props/Fence/P_Fence.P_Fence' ref from Metadata '/Game/Props/Fence/Fence.PackageMetaData'
+[2024.06.16-17.26.37:468][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-17.26.37:533][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Fence/P_Fence" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/P_Fence.uasset" SILENT=true
+[2024.06.16-17.26.37:536][193]LogSavePackage: Moving output files for package: /Game/Props/Fence/P_Fence
+[2024.06.16-17.26.37:536][193]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/P_FenceD1177A164FEA182017B104A910C515D0.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/P_Fence.uasset'
+[2024.06.16-17.26.37:543][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.57 sec)
+[2024.06.16-17.26.37:548][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.16-17.26.37:552][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.16-17.26.37:555][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.16-17.26.37:556][193]AssetCheck: New page: Asset Save: P_Fence
+[2024.06.16-17.26.37:556][193]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Props/Fence/P_Fence.P_Fence
+[2024.06.16-17.26.42:829][675]LogContentBrowser: Attempting asset rename: Fence1 -> Fence
+[2024.06.16-17.26.42:860][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-17.26.42:892][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Fence/P_Fence" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/P_Fence.uasset" SILENT=true
+[2024.06.16-17.26.42:895][675]LogSavePackage: Moving output files for package: /Game/Props/Fence/P_Fence
+[2024.06.16-17.26.42:895][675]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/P_Fence49F9B13C44ECC68938EFE6ADCAA55013.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/P_Fence.uasset'
+[2024.06.16-17.26.42:897][675]LogSavePackage: Moving output files for package: /Game/Props/Fence/Fence_Material/Fence
+[2024.06.16-17.26.42:897][675]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/FenceAD5B604B4199C4A6FE9B2D8D6C8A9098.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/Fence_Material/Fence.uasset'
+[2024.06.16-17.26.42:903][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1.62 sec)
+[2024.06.16-17.26.42:908][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.16-17.26.42:912][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.16-17.26.42:915][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.16-17.26.42:917][675]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.16-17.26.42:917][675]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Props/Fence/P_Fence.P_Fence
+[2024.06.16-17.26.42:917][675]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Props/Fence/Fence_Material/Fence.Fence
+[2024.06.16-17.26.53:394][ 97]LogInterchangeEngine: [Pending] Importing
+[2024.06.16-17.26.53:394][ 97]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...Textures/Props/Fence/Fence_Fence_BaseColor.png]
+[2024.06.16-17.26.53:394][ 97]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.26.53:395][ 97]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...Textures/Props/Fence/Fence_Fence_Normal.png]
+[2024.06.16-17.26.53:395][ 97]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.26.53:395][ 97]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...Textures/Props/Fence/Fence_Fence_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.26.53:443][ 98]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.26.53:469][ 99]LogTexture: Display: Building textures: /Game/Props/Fence/Fence_Textures/Fence_Fence_OcclusionRoughnessMetallic.Fence_Fence_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.26.53:473][ 99]LogTexture: Display: Building textures: /Game/Props/Fence/Fence_Textures/Fence_Fence_BaseColor.Fence_Fence_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.26.53:645][ 99]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.26.53:645][ 99]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.26.53:645][ 99]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.06.16-17.26.53:645][ 99]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.26.53:648][ 99]LogTexture: Display: Building textures: /Game/Props/Fence/Fence_Textures/Fence_Fence_Normal.Fence_Fence_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.26.53:663][ 99]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.26.57:147][381]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props/Fence/Fence_Material/Fence.Fence
+[2024.06.16-17.26.57:228][381]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-17.26.57:228][381]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-17.26.57:588][381]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-17.26.57:588][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.16-17.26.57:588][381]MaterialEditorStats: Shader Count: 0
+[2024.06.16-17.26.57:601][381]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.06.16-17.26.57:609][381]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.06.16-17.26.57:743][383]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.06.16-17.26.57:743][383]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.06.16-17.26.57:743][383]MaterialEditorStats: Texture samplers: 2/16
+[2024.06.16-17.26.57:743][383]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.16-17.26.57:743][383]MaterialEditorStats: Shader Count: 4
+[2024.06.16-17.27.00:467][558]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.16-17.27.01:012][608]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-17.27.01:012][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.16-17.27.01:012][608]MaterialEditorStats: Shader Count: 0
+[2024.06.16-17.27.01:082][609]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.06.16-17.27.01:082][609]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.06.16-17.27.01:082][609]MaterialEditorStats: Texture samplers: 2/16
+[2024.06.16-17.27.01:082][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.16-17.27.01:082][609]MaterialEditorStats: Shader Count: 4
+[2024.06.16-17.27.02:057][658]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-17.27.02:057][658]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.16-17.27.02:057][658]MaterialEditorStats: Shader Count: 0
+[2024.06.16-17.27.02:414][678]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.06.16-17.27.02:414][678]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.06.16-17.27.02:414][678]MaterialEditorStats: Texture samplers: 2/16
+[2024.06.16-17.27.02:414][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.06.16-17.27.02:414][678]MaterialEditorStats: Shader Count: 4
+[2024.06.16-17.27.06:520][990]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-17.27.06:520][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.16-17.27.06:520][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.06:520][990]MaterialEditorStats: Shader Count: 0
+[2024.06.16-17.27.07:357][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-17.27.07:357][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.16-17.27.07:357][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.07:357][ 33]MaterialEditorStats: Shader Count: 0
+[2024.06.16-17.27.08:812][117]MaterialEditorStats: Texture samplers: 2/16
+[2024.06.16-17.27.08:813][117]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.16-17.27.08:813][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.08:813][117]MaterialEditorStats: Shader Count: 1
+[2024.06.16-17.27.08:917][123]MaterialEditorStats: Base pass shader: 199 instructions
+[2024.06.16-17.27.08:917][123]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-17.27.08:917][123]MaterialEditorStats: Texture samplers: 4/16
+[2024.06.16-17.27.08:917][123]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.16-17.27.08:917][123]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.08:917][123]MaterialEditorStats: Shader Count: 4
+[2024.06.16-17.27.09:811][199]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-17.27.09:811][199]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-17.27.09:811][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.09:811][199]MaterialEditorStats: Shader Count: 0
+[2024.06.16-17.27.10:138][215]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.16-17.27.10:138][215]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-17.27.10:138][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.10:138][215]MaterialEditorStats: Shader Count: 1
+[2024.06.16-17.27.10:238][221]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-17.27.10:238][221]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-17.27.10:238][221]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-17.27.10:238][221]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-17.27.10:238][221]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.10:238][221]MaterialEditorStats: Shader Count: 4
+[2024.06.16-17.27.10:804][256]LogMaterialEditor: Saving and Compiling material Fence
+[2024.06.16-17.27.10:911][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.16-17.27.11:399][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.16-17.27.11:409][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-17.27.12:233][256]LogSavePackage: Moving output files for package: /Game/Props/Fence/Fence_Material/Fence
+[2024.06.16-17.27.12:234][256]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Fence4734CA054BB1AA6A5A10F3930870751C.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/Fence_Material/Fence.uasset'
+[2024.06.16-17.27.12:240][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 830 ms (total: 2.45 sec)
+[2024.06.16-17.27.12:240][256]AssetCheck: New page: Asset Save: Fence
+[2024.06.16-17.27.12:240][256]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Props/Fence/Fence_Material/Fence.Fence
+[2024.06.16-17.27.12:246][256]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-17.27.12:246][256]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-17.27.12:246][256]MaterialEditorStats: MaxSampler: 256 instructions
+[2024.06.16-17.27.12:246][256]MaterialEditorStats: Texture samplers: 6/16
+[2024.06.16-17.27.12:246][256]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-17.27.12:246][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-17.27.12:246][256]MaterialEditorStats: Shader Count: 16
+[2024.06.16-17.27.12:859][299]LogSlate: Window 'Fence' being destroyed
+[2024.06.16-17.27.12:889][299]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-17.27.12:889][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-17.27.27:205][897]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.27.27:216][897]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.27.27:279][899]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.27.32:252][431]LogContentBrowser: Attempting asset rename: NewFolder -> MM_Material_V1
+[2024.06.16-17.27.32:253][431]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.27.44:411][750]LogContentBrowser: Attempting asset rename: MM_Material_V1 -> RM_Material_V1
+[2024.06.16-17.27.47:262][ 53]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.27.47:272][ 53]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.27.47:280][ 54]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.27.54:256][835]LogContentBrowser: Attempting asset rename: NewFolder -> RM_Material_V2
+[2024.06.16-17.27.54:257][835]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.27.56:098][ 35]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.27.56:109][ 35]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.27.56:117][ 36]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.28.01:941][689]LogContentBrowser: Attempting asset rename: NewFolder -> RM_Textures
+[2024.06.16-17.28.01:941][689]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.28.05:266][ 50]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.28.05:274][ 50]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.28.05:330][ 52]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.28.10:022][582]LogContentBrowser: Attempting asset rename: NewFolder -> RM_V1
+[2024.06.16-17.28.10:023][582]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.28.11:697][754]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.06.16-17.28.11:708][754]LogContentBrowser: Creating deferred item: NewFolder
+[2024.06.16-17.28.11:716][755]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.06.16-17.28.15:077][110]LogContentBrowser: Attempting asset rename: NewFolder -> RM_V2
+[2024.06.16-17.28.15:078][110]LogContentBrowser: End creating deferred item NewFolder
+[2024.06.16-17.28.23:675][451]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/marin/Desktop/Exports Textures/FBX/RM.fbx)
+[2024.06.16-17.28.23:681][451]LogFbx: Loading FBX Scene from C:/Users/marin/Desktop/Exports Textures/FBX/RM.fbx
+[2024.06.16-17.28.23:687][451]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.16-17.28.24:889][451]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.06.16-17.28.24:934][451]LogFbx: Display: Triangulating static mesh RM_M1
+[2024.06.16-17.28.24:937][451]LogStaticMesh: Display: Building static mesh RM_RM_M1...
+[2024.06.16-17.28.24:941][451]LogStaticMesh: Built static mesh [0.00s] /Game/Buildings/RM/RM_RM_M1.RM_RM_M1
+[2024.06.16-17.28.24:953][451]LogFbx: Display: Triangulating static mesh RM_M2
+[2024.06.16-17.28.24:960][451]LogStaticMesh: Display: Building static mesh RM_RM_M2...
+[2024.06.16-17.28.24:967][451]LogStaticMesh: Built static mesh [0.01s] /Game/Buildings/RM/RM_RM_M2.RM_RM_M2
+[2024.06.16-17.28.24:978][451]LogFbx: Display: Triangulating static mesh RM_V1
+[2024.06.16-17.28.24:980][451]LogStaticMesh: Display: Building static mesh RM_RM_V1...
+[2024.06.16-17.28.24:984][451]LogStaticMesh: Built static mesh [0.00s] /Game/Buildings/RM/RM_RM_V1.RM_RM_V1
+[2024.06.16-17.28.24:994][451]LogFbx: Display: Triangulating static mesh RM_V2
+[2024.06.16-17.28.24:997][451]LogStaticMesh: Display: Building static mesh RM_RM_V2...
+[2024.06.16-17.28.25:003][451]LogStaticMesh: Built static mesh [0.01s] /Game/Buildings/RM/RM_RM_V2.RM_RM_V2
+[2024.06.16-17.28.25:015][451]LogFbx: Display: Triangulating static mesh RM_P1
+[2024.06.16-17.28.25:016][451]LogStaticMesh: Display: Building static mesh RM_RM_P1...
+[2024.06.16-17.28.25:018][451]LogStaticMesh: Built static mesh [0.00s] /Game/Buildings/RM/RM_RM_P1.RM_RM_P1
+[2024.06.16-17.28.25:026][451]LogFbx: Display: Triangulating static mesh RM_P2
+[2024.06.16-17.28.25:026][451]LogStaticMesh: Display: Building static mesh RM_RM_P2...
+[2024.06.16-17.28.25:029][451]LogStaticMesh: Built static mesh [0.00s] /Game/Buildings/RM/RM_RM_P2.RM_RM_P2
+[2024.06.16-17.28.25:037][451]LogFbx: Display: Triangulating static mesh RM_T1
+[2024.06.16-17.28.25:038][451]LogStaticMesh: Display: Building static mesh RM_RM_T1...
+[2024.06.16-17.28.25:043][451]LogStaticMesh: Built static mesh [0.00s] /Game/Buildings/RM/RM_RM_T1.RM_RM_T1
+[2024.06.16-17.28.25:054][451]LogFbx: Display: Triangulating static mesh RM_T2
+[2024.06.16-17.28.25:055][451]LogStaticMesh: Display: Building static mesh RM_RM_T2...
+[2024.06.16-17.28.25:058][451]LogStaticMesh: Built static mesh [0.00s] /Game/Buildings/RM/RM_RM_T2.RM_RM_T2
+[2024.06.16-17.28.25:071][451]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.06.16-17.28.26:644][530]LogSlate: Window 'Message Log' being destroyed
+[2024.06.16-17.28.26:651][530]LogSlate: Window 'Message Log' being destroyed
+[2024.06.16-17.28.33:453][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-17.28.33:499][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/M1_Half
+[2024.06.16-17.28.33:499][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/M1_HalfDE3E649248DAEA4B7BA2DEBB970AB17D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/M1_Half.uasset'
+[2024.06.16-17.28.33:515][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/M2_Half
+[2024.06.16-17.28.33:515][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/M2_Half2FE11FCE4D6B57FDC61AB791B2B5D0D5.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/M2_Half.uasset'
+[2024.06.16-17.28.33:534][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/V1_Half
+[2024.06.16-17.28.33:534][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/V1_Half9E4F545D40A8C1A5072EBA8808AA9CEF.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/V1_Half.uasset'
+[2024.06.16-17.28.33:552][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/V2_Half
+[2024.06.16-17.28.33:552][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/V2_Half64605BB6494A2A905B079BA15E158F11.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/V2_Half.uasset'
+[2024.06.16-17.28.33:570][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/P1_Half
+[2024.06.16-17.28.33:570][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/P1_HalfB7940B59489480E52351ECAF05AB5D7F.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/P1_Half.uasset'
+[2024.06.16-17.28.33:589][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/P2_Half
+[2024.06.16-17.28.33:589][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/P2_Half3A9006A94F42AA8D4EAB138EA09CE289.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/P2_Half.uasset'
+[2024.06.16-17.28.33:606][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/T1_Half
+[2024.06.16-17.28.33:606][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/T1_Half3EDFEE994587209F78E77EA4FF00B23C.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/T1_Half.uasset'
+[2024.06.16-17.28.33:625][175]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/T2_Half
+[2024.06.16-17.28.33:625][175]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/T2_Half962746564ECB01B36E45F9BABE4E4AAB.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/T2_Half.uasset'
+[2024.06.16-17.28.33:633][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 2.63 sec)
+[2024.06.16-17.28.33:655][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-17.28.33:661][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.16-17.28.33:663][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.16-17.28.33:674][175]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/M1_Half.M1_Half
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/M2_Half.M2_Half
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/V1_Half.V1_Half
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/V2_Half.V2_Half
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/P1_Half.P1_Half
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/P2_Half.P2_Half
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/T1_Half.T1_Half
+[2024.06.16-17.28.33:674][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/T2_Half.T2_Half
+[2024.06.16-17.28.47:899][428]LogInterchangeEngine: [Pending] Importing
+[2024.06.16-17.28.47:899][428]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_M1_V1_BaseColor.png]
+[2024.06.16-17.28.47:900][428]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.28.47:900][428]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_M1_V1_Normal.png]
+[2024.06.16-17.28.47:900][428]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.28.47:900][428]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_M1_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.47:901][428]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.06.16-17.28.47:901][428]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_M2_V1_BaseColor.png]
+[2024.06.16-17.28.47:901][428]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.06.16-17.28.47:901][428]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_M2_V1_Normal.png]
+[2024.06.16-17.28.47:902][428]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.47:902][428]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_M2_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.47:902][428]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.06.16-17.28.47:902][428]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_P1_V1_BaseColor.png]
+[2024.06.16-17.28.47:903][428]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.06.16-17.28.47:903][428]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.06.16-17.28.47:903][428]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.06.16-17.28.47:904][428]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.06.16-17.28.47:904][428]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.06.16-17.28.47:904][428]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.06.16-17.28.47:905][428]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.06.16-17.28.47:905][428]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.06.16-17.28.47:906][428]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.06.16-17.28.47:906][428]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.06.16-17.28.47:906][428]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.06.16-17.28.47:907][428]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.06.16-17.28.47:907][428]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.06.16-17.28.47:908][428]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.06.16-17.28.47:908][428]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.06.16-17.28.47:908][428]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.06.16-17.28.47:909][428]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.06.16-17.28.47:969][429]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.06.16-17.28.47:992][430]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.06.16-17.28.47:992][430]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_OcclusionRoughnessMetallic.RM_M1_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:122][430]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:122][430]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.06.16-17.28.48:122][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_P1_V1_Normal.png]
+[2024.06.16-17.28.48:124][430]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_BaseColor.RM_P1_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:139][430]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_BaseColor.RM_M1_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:146][430]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_BaseColor.RM_M2_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:146][430]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_OcclusionRoughnessMetallic.RM_M2_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:186][430]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.48:209][430]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.48:213][430]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_Normal.RM_M2_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_P1_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_P2_V1_BaseColor.png]
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_P2_V1_Normal.png]
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_P2_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_T1_V1_BaseColor.png]
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.06.16-17.28.48:278][430]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_T1_V1_Normal.png]
+[2024.06.16-17.28.48:423][432]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_Normal.RM_M1_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:465][432]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.48:472][432]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:472][432]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.06.16-17.28.48:472][432]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_T1_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.48:490][433]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_Normal.RM_P1_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:532][433]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.06.16-17.28.48:543][433]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.06.16-17.28.48:592][433]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_BaseColor.RM_P2_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:595][433]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_BaseColor.RM_T1_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:607][433]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_OcclusionRoughnessMetallic.RM_P2_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:622][433]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_OcclusionRoughnessMetallic.RM_P1_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:622][433]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.48:662][433]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_Normal.RM_P2_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:665][433]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.48:667][433]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:667][433]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.06.16-17.28.48:667][433]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_T2_V1_BaseColor.png]
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_T2_V1_Normal.png]
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_T2_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_V1_V1_BaseColor.png]
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:668][433]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.06.16-17.28.48:669][433]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_V1_V1_Normal.png]
+[2024.06.16-17.28.48:678][433]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:678][433]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.06.16-17.28.48:678][433]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_V1_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.48:915][436]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:915][436]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.06.16-17.28.48:915][436]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_V2_V1_BaseColor.png]
+[2024.06.16-17.28.48:929][436]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_Normal.RM_T1_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:930][436]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_OcclusionRoughnessMetallic.RM_T1_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:930][436]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_BaseColor.RM_V1_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.48:937][436]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.48:973][436]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.48:973][436]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:973][436]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.06.16-17.28.48:973][436]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_V2_V1_Normal.png]
+[2024.06.16-17.28.48:974][436]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:974][436]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.06.16-17.28.48:975][436]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/1RM/RM_V2_V1_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.48:975][436]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.48:975][436]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.06.16-17.28.48:986][436]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.06.16-17.28.48:999][437]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_BaseColor.RM_T2_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.49:013][437]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_Normal.RM_V1_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.49:049][437]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_Normal.RM_T2_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.49:099][437]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_OcclusionRoughnessMetallic.RM_T2_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.49:195][438]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.28.49:214][438]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.49:354][440]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.28.49:354][440]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.06.16-17.28.49:354][440]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.28.49:372][441]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.28.49:412][441]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_OcclusionRoughnessMetallic.RM_V1_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.49:448][441]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_OcclusionRoughnessMetallic.RM_V2_V1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.49:454][441]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_BaseColor.RM_V2_V1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.49:467][441]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_Normal.RM_V2_V1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.56:532][612]LogInterchangeEngine: [Pending] Importing
+[2024.06.16-17.28.56:532][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_M1_V2_BaseColor.png]
+[2024.06.16-17.28.56:533][612]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.28.56:533][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_M1_V2_Normal.png]
+[2024.06.16-17.28.56:533][612]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.28.56:533][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_M1_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.56:534][612]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.06.16-17.28.56:534][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_M2_V2_BaseColor.png]
+[2024.06.16-17.28.56:534][612]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.06.16-17.28.56:534][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_M2_V2_Normal.png]
+[2024.06.16-17.28.56:535][612]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.56:535][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_M2_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.56:535][612]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.06.16-17.28.56:535][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_P1_V2_BaseColor.png]
+[2024.06.16-17.28.56:536][612]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.06.16-17.28.56:536][612]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.06.16-17.28.56:536][612]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.06.16-17.28.56:537][612]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.06.16-17.28.56:537][612]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.06.16-17.28.56:538][612]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.06.16-17.28.56:538][612]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.06.16-17.28.56:538][612]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.06.16-17.28.56:539][612]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.06.16-17.28.56:539][612]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.06.16-17.28.56:540][612]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.06.16-17.28.56:540][612]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.06.16-17.28.56:540][612]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.06.16-17.28.56:541][612]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.06.16-17.28.56:541][612]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.06.16-17.28.56:541][612]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.06.16-17.28.56:542][612]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.06.16-17.28.56:570][613]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.06.16-17.28.56:681][615]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.56:681][615]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.06.16-17.28.56:681][615]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_P1_V2_Normal.png]
+[2024.06.16-17.28.56:682][615]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.56:682][615]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.06.16-17.28.56:682][615]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_P1_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.56:683][615]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.56:683][615]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.06.16-17.28.56:683][615]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_P2_V2_BaseColor.png]
+[2024.06.16-17.28.56:687][615]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_OcclusionRoughnessMetallic.RM_M1_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.56:688][615]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_BaseColor.RM_M1_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.56:690][615]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_OcclusionRoughnessMetallic.RM_M2_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.56:744][616]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.56:744][616]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.06.16-17.28.56:744][616]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_P2_V2_Normal.png]
+[2024.06.16-17.28.56:745][616]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.56:745][616]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.06.16-17.28.56:745][616]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_P2_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.56:753][616]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_BaseColor.RM_M2_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.56:754][616]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_BaseColor.RM_P1_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.56:861][616]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.56:876][616]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.57:028][618]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.57:054][619]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_Normal.RM_M1_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:055][619]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_Normal.RM_M2_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:116][619]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_Normal.RM_P1_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:118][619]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_BaseColor.RM_P2_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:118][619]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_OcclusionRoughnessMetallic.RM_P1_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:136][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:137][619]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.06.16-17.28.57:137][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_T1_V2_BaseColor.png]
+[2024.06.16-17.28.57:137][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:137][619]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.06.16-17.28.57:137][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_T1_V2_Normal.png]
+[2024.06.16-17.28.57:137][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_T1_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_T2_V2_BaseColor.png]
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.06.16-17.28.57:138][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_T2_V2_Normal.png]
+[2024.06.16-17.28.57:173][619]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.57:186][619]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_OcclusionRoughnessMetallic.RM_P2_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:188][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:188][619]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.06.16-17.28.57:188][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_T2_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.57:190][619]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:190][619]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.06.16-17.28.57:190][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_V1_V2_BaseColor.png]
+[2024.06.16-17.28.57:538][624]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_Normal.RM_P2_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:556][624]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_BaseColor.RM_T1_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:564][624]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:564][624]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.06.16-17.28.57:564][624]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_V1_V2_Normal.png]
+[2024.06.16-17.28.57:564][624]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:564][624]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.06.16-17.28.57:565][624]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_V1_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.57:595][624]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.57:604][624]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_BaseColor.RM_T2_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:604][624]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_OcclusionRoughnessMetallic.RM_T1_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:616][624]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.57:625][625]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_Normal.RM_T1_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:700][626]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:700][626]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.06.16-17.28.57:700][626]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_V2_V2_BaseColor.png]
+[2024.06.16-17.28.57:700][626]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:700][626]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.06.16-17.28.57:700][626]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_Normal.RM_T2_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:700][626]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_V2_V2_Normal.png]
+[2024.06.16-17.28.57:701][626]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:702][626]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.06.16-17.28.57:702][626]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/marin/Deskt...extures/Textures/2RM/RM_V2_V2_OcclusionRoughnessMetallic.png]
+[2024.06.16-17.28.57:702][626]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.06.16-17.28.57:732][626]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_OcclusionRoughnessMetallic.RM_T2_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.57:786][627]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.06.16-17.28.58:074][631]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_OcclusionRoughnessMetallic.RM_V1_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.58:074][631]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_BaseColor.RM_V1_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.58:113][631]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.06.16-17.28.58:132][631]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.58:145][631]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_Normal.RM_V1_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.58:189][633]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.06.16-17.28.58:286][635]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_BaseColor.RM_V2_V2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.58:287][635]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_OcclusionRoughnessMetallic.RM_V2_V2_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.58:302][635]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.06.16-17.28.58:332][635]LogTexture: Display: Building textures: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_Normal.RM_V2_V2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.06.16-17.28.58:379][635]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.06.16-17.28.58:379][635]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.06.16-17.28.58:379][635]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.28.58:398][636]LogInterchangeEngine: [Success] Import Done
+[2024.06.16-17.29.04:970][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.16-17.29.04:993][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-17.29.05:030][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TokyoStreet" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.16-17.29.05:053][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.16-17.29.05:058][ 84]LogSavePackage: Moving output files for package: /Game/TokyoStreet
+[2024.06.16-17.29.05:059][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/TokyoStreet8570A8EC438947A3128361BD43C3388F.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap'
+[2024.06.16-17.29.05:064][ 84]LogFileHelpers: Saving map 'TokyoStreet' took 0.034
+[2024.06.16-17.29.05:114][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Normal_01
+[2024.06.16-17.29.05:114][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_0171AD049F44813C8BFDBB1DA92B17F100.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Normal_01.uasset'
+[2024.06.16-17.29.05:173][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Normal_Mitad
+[2024.06.16-17.29.05:173][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_MitadF5A27FD2477107E3AE71BEAD201CA806.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Normal_Mitad.uasset'
+[2024.06.16-17.29.05:180][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Suelo/Suelo_Losa_Modulo_Rampa" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Rampa.uasset" SILENT=true
+[2024.06.16-17.29.05:290][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Rampa
+[2024.06.16-17.29.05:290][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_RampaBC1AEA074EF9F2260613C1BCF059F0C2.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Rampa.uasset'
+[2024.06.16-17.29.05:303][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Plano_01
+[2024.06.16-17.29.05:303][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_0167AC79764698374D42629FBF998A25E2.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Plano_01.uasset'
+[2024.06.16-17.29.05:315][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Normal_02
+[2024.06.16-17.29.05:315][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_02B3D89457473AD82383BEB4A71ACD8BAC.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Normal_02.uasset'
+[2024.06.16-17.29.05:326][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Esquina
+[2024.06.16-17.29.05:326][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_EsquinaED372FE3424764A49BC13DA7BB36B47C.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Esquina.uasset'
+[2024.06.16-17.29.05:335][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01
+[2024.06.16-17.29.05:335][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_01DD3190744E16F5A214C029B1DFAD4C18.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Ladrillo_01.uasset'
+[2024.06.16-17.29.05:343][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Plano_02
+[2024.06.16-17.29.05:343][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_0206982B194F4864E0F540F2B615B8BB25.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Plano_02.uasset'
+[2024.06.16-17.29.05:352][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_02
+[2024.06.16-17.29.05:352][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_020CF52B1041FF3B17CC3ADABE0A230CEF.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Ladrillo_02.uasset'
+[2024.06.16-17.29.05:362][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_03
+[2024.06.16-17.29.05:362][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_03219D6A7041966127F17ED6BD5E07643F.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Ladrillo_03.uasset'
+[2024.06.16-17.29.05:371][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_04
+[2024.06.16-17.29.05:371][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_04C3454101410BBC314EB3E7B4288F2612.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Losa_Modulo_Ladrillo_04.uasset'
+[2024.06.16-17.29.05:442][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_BaseColor
+[2024.06.16-17.29.05:442][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Esquina_BaseCo0C4DF78D419233D54DF9FF97C869582D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_BaseColor.uasset'
+[2024.06.16-17.29.05:503][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_OcclusionRoughnessMetallic
+[2024.06.16-17.29.05:503][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Esquina_OcclusDB2E6F5444B9874D034A95A0A58240CB.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.05:599][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_Normal
+[2024.06.16-17.29.05:599][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Esquina_Normal287BCA8943BA7DDDED29B5866913B0EF.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_Normal.uasset'
+[2024.06.16-17.29.05:614][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_BaseColor
+[2024.06.16-17.29.05:614][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_01_Ba740FE6894618B777300C43B69D19E684.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_BaseColor.uasset'
+[2024.06.16-17.29.05:694][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_Normal
+[2024.06.16-17.29.05:694][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_01_No87A8C6594EF4F87756D76CB95D225178.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_Normal.uasset'
+[2024.06.16-17.29.05:759][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_OcclusionRoughnessMetallic
+[2024.06.16-17.29.05:759][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_01_Oc7F128EE644A4447ECC1B30916A92B63F.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.05:775][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_BaseColor
+[2024.06.16-17.29.05:775][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_02_BaFE70366A4562404E958962AB36A80D74.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_BaseColor.uasset'
+[2024.06.16-17.29.05:826][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_OcclusionRoughnessMetallic
+[2024.06.16-17.29.05:826][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_02_Oc5E2F4F5D4F670BD7392FF48297B9840B.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.05:910][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_Normal
+[2024.06.16-17.29.05:910][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_02_No9DF4C49C421113A216E443A6DC277542.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_Normal.uasset'
+[2024.06.16-17.29.05:924][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_BaseColor
+[2024.06.16-17.29.05:924][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_03_BaB04679954F87C8FB012EFDB3FB64D53D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_BaseColor.uasset'
+[2024.06.16-17.29.06:010][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_Normal
+[2024.06.16-17.29.06:010][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_03_No06BA49FC437DCF10C62F218D70393D81.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_Normal.uasset'
+[2024.06.16-17.29.06:064][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_OcclusionRoughnessMetallic
+[2024.06.16-17.29.06:064][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_03_OcC40B59DF4877DB1F10237AAFF56668C1.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.06:079][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_BaseColor
+[2024.06.16-17.29.06:079][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_04_Ba1A53BD2E42B1326C91F17DA943EF6EFA.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_BaseColor.uasset'
+[2024.06.16-17.29.06:163][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_Normal
+[2024.06.16-17.29.06:163][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_04_No104F1C0A400FD7D5F7BC9FAC2DBAA8CE.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_Normal.uasset'
+[2024.06.16-17.29.06:221][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_OcclusionRoughnessMetallic
+[2024.06.16-17.29.06:221][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Ladrillo_04_Oc18E8FF5748574A28C7FA08AB25894F22.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.06:297][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_BaseColor
+[2024.06.16-17.29.06:297][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_01_BaseE4E41A8A45D187E6FBE853BD776075E0.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_BaseColor.uasset'
+[2024.06.16-17.29.06:392][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_Normal
+[2024.06.16-17.29.06:392][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_01_Norm9ABDC5DD4DE5F61F988809AF6B2A6F8B.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_Normal.uasset'
+[2024.06.16-17.29.06:464][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_BaseColor
+[2024.06.16-17.29.06:464][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_02_Base999D78CC4CF02D2C477BBF96AADDF10C.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_BaseColor.uasset'
+[2024.06.16-17.29.06:530][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_OcclusionRoughnessMetallic
+[2024.06.16-17.29.06:530][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_01_Occl674D3C3E433E9042B7D5A093D6029206.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.06:624][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_Normal
+[2024.06.16-17.29.06:625][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_02_Norm0F913E3E4C444BFB8FD440B9A7A65BF2.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_Normal.uasset'
+[2024.06.16-17.29.06:686][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_OcclusionRoughnessMetallic
+[2024.06.16-17.29.06:686][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_02_OcclC03B9AA94E3A109301815BA4960787A3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.06:760][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_BaseColor
+[2024.06.16-17.29.06:760][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_Mitad_B1012863A43038262C227978AEAF3E53B.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_BaseColor.uasset'
+[2024.06.16-17.29.06:855][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_Normal
+[2024.06.16-17.29.06:856][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_Mitad_N32F46F604CBB437C4D94E588C1E91B15.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_Normal.uasset'
+[2024.06.16-17.29.06:916][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_OcclusionRoughnessMetallic
+[2024.06.16-17.29.06:916][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Normal_Mitad_OA710CD824BBA04B03695F6A153921C2D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.06:988][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_BaseColor
+[2024.06.16-17.29.06:988][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_01_BaseC067B2E96464C2F3A8202A1A89BBFDBEA.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_BaseColor.uasset'
+[2024.06.16-17.29.07:082][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_Normal
+[2024.06.16-17.29.07:082][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_01_Norma30D8AB6640D458B401DFF383C79D7340.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_Normal.uasset'
+[2024.06.16-17.29.07:157][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_BaseColor
+[2024.06.16-17.29.07:157][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_02_BaseCEFFE210448942501B43DE9887AC11ABB.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_BaseColor.uasset'
+[2024.06.16-17.29.07:219][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_OcclusionRoughnessMetallic
+[2024.06.16-17.29.07:219][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_01_OccluF738366341D2DB697B02D79EA7A622BD.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.07:303][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_Normal
+[2024.06.16-17.29.07:303][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_02_NormaE8D68D4E40790DCDF8F5B580F6495FB8.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_Normal.uasset'
+[2024.06.16-17.29.07:364][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_OcclusionRoughnessMetallic
+[2024.06.16-17.29.07:364][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_02_Occlu9D400B7E4748D5343B986CB94595CA4D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.07:606][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_BaseColor
+[2024.06.16-17.29.07:606][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_BaseColo387360584285DB8FAB3E7696D401D075.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_BaseColor.uasset'
+[2024.06.16-17.29.07:919][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_Normal
+[2024.06.16-17.29.07:919][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_NormalC10E8D7C420D2351AE2A39A2F2EA049D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_Normal.uasset'
+[2024.06.16-17.29.08:144][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_OcclusionRoughnessMetallic
+[2024.06.16-17.29.08:144][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Plano_Occlusio5B40A4FB4D560A2064E7CB8AF52BD7A7.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.08:214][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_BaseColor
+[2024.06.16-17.29.08:214][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Rampa_BaseColo7F52618E4A6D9A5BB54CFEA3E9A1BA8A.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_BaseColor.uasset'
+[2024.06.16-17.29.08:302][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_Normal
+[2024.06.16-17.29.08:302][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Rampa_Normal2360AF8C480C4B1B82F0B3A3E07C33F2.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_Normal.uasset'
+[2024.06.16-17.29.08:363][ 84]LogSavePackage: Moving output files for package: /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_OcclusionRoughnessMetallic
+[2024.06.16-17.29.08:363][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Suelo_Losa_Modulo_Rampa_OcclusioED5A25C64C0ED23223EA689FD9493F2E.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.08:411][ 84]LogSavePackage: Moving output files for package: /Game/Props/Fence/Fence_Textures/Fence_Fence_BaseColor
+[2024.06.16-17.29.08:411][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Fence_Fence_BaseColorBA653FE547DB5BE52BA36B8A68DBF703.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/Fence_Textures/Fence_Fence_BaseColor.uasset'
+[2024.06.16-17.29.08:486][ 84]LogSavePackage: Moving output files for package: /Game/Props/Fence/Fence_Textures/Fence_Fence_Normal
+[2024.06.16-17.29.08:486][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Fence_Fence_NormalA93261AE404D5E34D231A4A6C18A2E14.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/Fence_Textures/Fence_Fence_Normal.uasset'
+[2024.06.16-17.29.08:537][ 84]LogSavePackage: Moving output files for package: /Game/Props/Fence/Fence_Textures/Fence_Fence_OcclusionRoughnessMetallic
+[2024.06.16-17.29.08:537][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Fence_Fence_OcclusionRoughnessMe894276D8414D2291799BECB837621213.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Props/Fence/Fence_Textures/Fence_Fence_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.08:549][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_M1" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_M1.uasset" SILENT=true
+[2024.06.16-17.29.08:552][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_M1
+[2024.06.16-17.29.08:552][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_M1318E99BD4668EA125F68268CA5802129.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_M1.uasset'
+[2024.06.16-17.29.08:564][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_M2" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_M2.uasset" SILENT=true
+[2024.06.16-17.29.08:567][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_M2
+[2024.06.16-17.29.08:567][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_M293E94B8244C80515ED410FA3FA7BC7FD.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_M2.uasset'
+[2024.06.16-17.29.08:593][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/T2_Half
+[2024.06.16-17.29.08:593][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/T2_Half5A7004BA46217BC60770F7A88546486C.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/T2_Half.uasset'
+[2024.06.16-17.29.08:606][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_V1" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_V1.uasset" SILENT=true
+[2024.06.16-17.29.08:608][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_V1
+[2024.06.16-17.29.08:608][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_V1F14936B143E21F2B7089D59D1361EBFF.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_V1.uasset'
+[2024.06.16-17.29.08:621][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_V2" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_V2.uasset" SILENT=true
+[2024.06.16-17.29.08:623][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_V2
+[2024.06.16-17.29.08:623][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_V205686D6942FC8C6ED981928C08D50247.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_V2.uasset'
+[2024.06.16-17.29.08:636][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_P1" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_P1.uasset" SILENT=true
+[2024.06.16-17.29.08:638][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_P1
+[2024.06.16-17.29.08:638][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_P116C14E2C4023122784F6A7A7001909A2.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_P1.uasset'
+[2024.06.16-17.29.08:649][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_P2" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_P2.uasset" SILENT=true
+[2024.06.16-17.29.08:652][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_P2
+[2024.06.16-17.29.08:652][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_P2050159DD45ED8E505F42C88A93A5FBB4.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_P2.uasset'
+[2024.06.16-17.29.08:669][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_T1" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_T1.uasset" SILENT=true
+[2024.06.16-17.29.08:671][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_T1
+[2024.06.16-17.29.08:671][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_T12DC649E544A70B277DDC459EC03EC5FA.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_T1.uasset'
+[2024.06.16-17.29.08:690][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/RM_RM_T2" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_T2.uasset" SILENT=true
+[2024.06.16-17.29.08:692][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_RM_T2
+[2024.06.16-17.29.08:692][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_T2D8BC6ABB4F6548DD18D5E3A41381FB8D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_RM_T2.uasset'
+[2024.06.16-17.29.08:717][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/M1_Half
+[2024.06.16-17.29.08:717][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/M1_HalfDFF130994E94C2AD3A5DACAD2C13D8CD.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/M1_Half.uasset'
+[2024.06.16-17.29.08:746][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/M2_Half
+[2024.06.16-17.29.08:746][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/M2_Half82F0E107475F028FA9EB07A92E02FA1C.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/M2_Half.uasset'
+[2024.06.16-17.29.08:773][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/V1_Half
+[2024.06.16-17.29.08:773][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/V1_Half16D098074C355F3F6B5AFEA43F7AFF51.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/V1_Half.uasset'
+[2024.06.16-17.29.08:800][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/V2_Half
+[2024.06.16-17.29.08:800][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/V2_HalfD3D0ADCB454EDBF07D4B4F8DA9817CAB.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/V2_Half.uasset'
+[2024.06.16-17.29.08:826][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/P1_Half
+[2024.06.16-17.29.08:826][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/P1_HalfCF4AEEBB4FBECE168BB618BD564B689F.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/P1_Half.uasset'
+[2024.06.16-17.29.08:853][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/P2_Half
+[2024.06.16-17.29.08:853][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/P2_Half9CBF515B4DC4E93D5CC8C38E4CAE7D7F.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/P2_Half.uasset'
+[2024.06.16-17.29.08:877][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V1/T1_Half
+[2024.06.16-17.29.08:877][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/T1_HalfF955A8874BBACEABD5C2CD9426E09A69.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V1/T1_Half.uasset'
+[2024.06.16-17.29.08:942][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_BaseColor
+[2024.06.16-17.29.08:942][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M1_V1_BaseColorBA699783464E4F98E87840B7CE1527F4.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_BaseColor.uasset'
+[2024.06.16-17.29.09:027][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_Normal
+[2024.06.16-17.29.09:027][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M1_V1_Normal8098C5584F409A422890A8B547AD2B16.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_Normal.uasset'
+[2024.06.16-17.29.09:083][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.09:083][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M1_V1_OcclusionRoughnessMetalABC779324C4C91221C446DA57B355FD8.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.09:147][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_BaseColor
+[2024.06.16-17.29.09:147][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M2_V1_BaseColorD828C24A4B2D47B0CC7482BE52CCF126.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_BaseColor.uasset'
+[2024.06.16-17.29.09:229][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_Normal
+[2024.06.16-17.29.09:229][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M2_V1_NormalE6F84F5643CDF4A06B5B12943F0D6F38.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_Normal.uasset'
+[2024.06.16-17.29.09:287][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.09:287][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M2_V1_OcclusionRoughnessMetal0ED62382438532CC8040CE8C0E6110EE.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.09:313][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_BaseColor
+[2024.06.16-17.29.09:313][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P1_V1_BaseColorB0D0423140922B8973EE7FB276AC640D.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_BaseColor.uasset'
+[2024.06.16-17.29.09:391][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_Normal
+[2024.06.16-17.29.09:391][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P1_V1_NormalB35952C4471D5A3D9C7238B60C90D9E4.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_Normal.uasset'
+[2024.06.16-17.29.09:451][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.09:451][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P1_V1_OcclusionRoughnessMetal3C2FCF114283C7E7F5FA4B90BC41BF2A.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.09:478][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_BaseColor
+[2024.06.16-17.29.09:478][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V1_BaseColor8BA0C9AF4B4AD9DFB5CE11B2A205E99A.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_BaseColor.uasset'
+[2024.06.16-17.29.09:557][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_Normal
+[2024.06.16-17.29.09:557][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V1_Normal5259BF7748A1294D917779A75DF148E0.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_Normal.uasset'
+[2024.06.16-17.29.09:619][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.09:619][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V1_OcclusionRoughnessMetal9A05B64F4B43892E4C3B01B18E3FCABE.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.09:651][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_BaseColor
+[2024.06.16-17.29.09:651][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T1_V1_BaseColorDC9CD8A64879516A86493BA22516D7F1.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_BaseColor.uasset'
+[2024.06.16-17.29.09:728][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_Normal
+[2024.06.16-17.29.09:728][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T1_V1_Normal3D9195A1457762EF2D6A54A00B73747C.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_Normal.uasset'
+[2024.06.16-17.29.09:783][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.09:783][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T1_V1_OcclusionRoughnessMetal560E3C03499ED92FE4D58195A5F74645.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.09:842][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.09:843][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T2_V1_OcclusionRoughnessMetal558123434CED91CC6CFAEEB639912555.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.09:908][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_BaseColor
+[2024.06.16-17.29.09:908][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T2_V1_BaseColorCD2B27F347C2F19B493726982877008B.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_BaseColor.uasset'
+[2024.06.16-17.29.09:964][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_BaseColor
+[2024.06.16-17.29.09:964][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V1_V1_BaseColor5240F8E84DA645A846454085861C6811.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_BaseColor.uasset'
+[2024.06.16-17.29.10:045][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_Normal
+[2024.06.16-17.29.10:045][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V1_V1_Normal3F9247DA498F6858C937C4B826B9CB58.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_Normal.uasset'
+[2024.06.16-17.29.10:131][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_Normal
+[2024.06.16-17.29.10:131][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T2_V1_NormalFECCC6E14DAAD457983A24AB9621F443.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_Normal.uasset'
+[2024.06.16-17.29.10:186][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.10:186][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V1_V1_OcclusionRoughnessMetal8E225B244EDB0478D3FA018717A90E80.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.10:245][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_BaseColor
+[2024.06.16-17.29.10:245][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V2_V1_BaseColorE21E019041B01ACAE84DD6BB871AF537.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_BaseColor.uasset'
+[2024.06.16-17.29.10:326][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_Normal
+[2024.06.16-17.29.10:326][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V2_V1_NormalA2F67BA34B0FA4142CFEF7AFCD6CD15E.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_Normal.uasset'
+[2024.06.16-17.29.10:387][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.10:387][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V2_V1_OcclusionRoughnessMetalF9B1A11F454FD03A058535819123BB97.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.10:461][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_BaseColor
+[2024.06.16-17.29.10:462][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M1_V2_BaseColorA37229A64C4B08348BE2209A677EC686.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_BaseColor.uasset'
+[2024.06.16-17.29.10:550][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_Normal
+[2024.06.16-17.29.10:550][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M1_V2_NormalE613DF1542AB7F032D5EF9B745E04C8B.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_Normal.uasset'
+[2024.06.16-17.29.10:614][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.10:614][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M1_V2_OcclusionRoughnessMetal1C1C770E4FEDA1CFC9E84DB9046A73F7.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.10:686][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_BaseColor
+[2024.06.16-17.29.10:686][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M2_V2_BaseColor843DFE42483CF575CFF94DB6E49745D1.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_BaseColor.uasset'
+[2024.06.16-17.29.10:776][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_Normal
+[2024.06.16-17.29.10:777][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M2_V2_Normal33DC8ACB4B2D45273F2540B6CB0DD9A4.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_Normal.uasset'
+[2024.06.16-17.29.10:838][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.10:838][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M2_V2_OcclusionRoughnessMetalEDD1047743766EF77A439B80AE7CDCF3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.10:909][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_BaseColor
+[2024.06.16-17.29.10:910][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P1_V2_BaseColor6C1E86A54DFBF7994C19C08F755D2D7F.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_BaseColor.uasset'
+[2024.06.16-17.29.10:996][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_Normal
+[2024.06.16-17.29.10:996][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P1_V2_Normal80CB981E47F9E22341BB87845A4A1AE5.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_Normal.uasset'
+[2024.06.16-17.29.11:060][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.11:060][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P1_V2_OcclusionRoughnessMetalDA9BAD6E4FA798A74C5259BC7B8CAD96.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.11:132][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_BaseColor
+[2024.06.16-17.29.11:132][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V2_BaseColor7C722FE740694C29F933668A541EB977.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_BaseColor.uasset'
+[2024.06.16-17.29.11:217][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_Normal
+[2024.06.16-17.29.11:217][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V2_Normal9208F46A429EC0FE2694DF931411E5E7.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_Normal.uasset'
+[2024.06.16-17.29.11:283][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.11:283][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V2_OcclusionRoughnessMetal3B8520FD454B74DB9B7527B52BF2F814.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.11:344][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_BaseColor
+[2024.06.16-17.29.11:344][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T1_V2_BaseColor29AD595C4B1F53440DF266A6B4C212CD.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_BaseColor.uasset'
+[2024.06.16-17.29.11:429][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_Normal
+[2024.06.16-17.29.11:429][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T1_V2_Normal66D16C324D480EBA88194FB6E9DA5D40.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_Normal.uasset'
+[2024.06.16-17.29.11:491][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.11:491][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T1_V2_OcclusionRoughnessMetalA1FF796B467D17A66101BF962C7FBCA5.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.11:560][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_BaseColor
+[2024.06.16-17.29.11:560][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T2_V2_BaseColor10D859B74C56F75927A44DACFA333722.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_BaseColor.uasset'
+[2024.06.16-17.29.11:652][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_Normal
+[2024.06.16-17.29.11:652][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T2_V2_NormalB92579F946A407D46815EDAF0EF351B6.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_Normal.uasset'
+[2024.06.16-17.29.11:718][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.11:718][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_T2_V2_OcclusionRoughnessMetalD598208644293A0FC56B48AD5D2AF152.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.11:784][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_BaseColor
+[2024.06.16-17.29.11:784][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V1_V2_BaseColorF0E7DED743365536C9ABE58C444F9FF3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_BaseColor.uasset'
+[2024.06.16-17.29.11:871][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_Normal
+[2024.06.16-17.29.11:871][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V1_V2_NormalC6A1B55A4E241D02A1D036A1D06F10E1.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_Normal.uasset'
+[2024.06.16-17.29.11:931][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.11:931][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V1_V2_OcclusionRoughnessMetal2326CC424BA57A2C4B60B9A0A557F45E.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.12:003][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_BaseColor
+[2024.06.16-17.29.12:003][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V2_V2_BaseColor36E5C2BB4DEE07674B8FD1A891CB7F97.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_BaseColor.uasset'
+[2024.06.16-17.29.12:086][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_Normal
+[2024.06.16-17.29.12:086][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V2_V2_Normal63FA70EB4655E554F83B158290C5B8EB.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_Normal.uasset'
+[2024.06.16-17.29.12:147][ 84]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:147][ 84]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_V2_V2_OcclusionRoughnessMetal3BF2E53D4F06C645B477029C2FDC60C3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_OcclusionRoughnessMetallic.uasset'
+[2024.06.16-17.29.12:161][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.16 sec (total: 9.79 sec)
+[2024.06.16-17.29.12:178][ 84]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.World /Game/TokyoStreet.TokyoStreet
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_Mitad.Suelo_Losa_Modulo_Normal_Mitad
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Rampa.Suelo_Losa_Modulo_Rampa
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_02.Suelo_Losa_Modulo_Normal_02
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Esquina.Suelo_Losa_Modulo_Esquina
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_02.Suelo_Losa_Modulo_Plano_02
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_02.Suelo_Losa_Modulo_Ladrillo_02
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_03.Suelo_Losa_Modulo_Ladrillo_03
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_04.Suelo_Losa_Modulo_Ladrillo_04
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_BaseColor.Suelo_Losa_Modulo_Esquina_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Esquina_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Esquina_Normal.Suelo_Losa_Modulo_Esquina_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_BaseColor.Suelo_Losa_Modulo_Ladrillo_01_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_Normal.Suelo_Losa_Modulo_Ladrillo_01_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_01_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_01_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_BaseColor.Suelo_Losa_Modulo_Ladrillo_02_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_02_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_02_Normal.Suelo_Losa_Modulo_Ladrillo_02_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_BaseColor.Suelo_Losa_Modulo_Ladrillo_03_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_Normal.Suelo_Losa_Modulo_Ladrillo_03_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_03_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_03_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_BaseColor.Suelo_Losa_Modulo_Ladrillo_04_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_Normal.Suelo_Losa_Modulo_Ladrillo_04_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Ladrillo_04_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Ladrillo_04_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_BaseColor.Suelo_Losa_Modulo_Normal_01_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_Normal.Suelo_Losa_Modulo_Normal_01_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_BaseColor.Suelo_Losa_Modulo_Normal_02_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_01_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Normal_01_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_Normal.Suelo_Losa_Modulo_Normal_02_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_02_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Normal_02_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_BaseColor.Suelo_Losa_Modulo_Normal_Mitad_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_Normal.Suelo_Losa_Modulo_Normal_Mitad_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Normal_Mitad_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Normal_Mitad_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_BaseColor.Suelo_Losa_Modulo_Plano_01_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_Normal.Suelo_Losa_Modulo_Plano_01_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_BaseColor.Suelo_Losa_Modulo_Plano_02_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_01_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Plano_01_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_Normal.Suelo_Losa_Modulo_Plano_02_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_02_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Plano_02_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_BaseColor.Suelo_Losa_Modulo_Plano_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_Normal.Suelo_Losa_Modulo_Plano_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Plano_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Plano_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_BaseColor.Suelo_Losa_Modulo_Rampa_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_Normal.Suelo_Losa_Modulo_Rampa_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Suelo/Suelo_Textures/Suelo_Losa_Modulo_Rampa_OcclusionRoughnessMetallic.Suelo_Losa_Modulo_Rampa_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Props/Fence/Fence_Textures/Fence_Fence_BaseColor.Fence_Fence_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Props/Fence/Fence_Textures/Fence_Fence_Normal.Fence_Fence_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Props/Fence/Fence_Textures/Fence_Fence_OcclusionRoughnessMetallic.Fence_Fence_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_M1.RM_RM_M1
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_M2.RM_RM_M2
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/T2_Half.T2_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_V1.RM_RM_V1
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_V2.RM_RM_V2
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_P1.RM_RM_P1
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_P2.RM_RM_P2
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_T1.RM_RM_T1
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/RM_RM_T2.RM_RM_T2
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/M1_Half.M1_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/M2_Half.M2_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/V1_Half.V1_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/V2_Half.V2_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/P1_Half.P1_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/P2_Half.P2_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V1/T1_Half.T1_Half
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_BaseColor.RM_M1_V1_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_Normal.RM_M1_V1_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_M1_V1_OcclusionRoughnessMetallic.RM_M1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_BaseColor.RM_M2_V1_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_Normal.RM_M2_V1_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_M2_V1_OcclusionRoughnessMetallic.RM_M2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_BaseColor.RM_P1_V1_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_Normal.RM_P1_V1_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_P1_V1_OcclusionRoughnessMetallic.RM_P1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_BaseColor.RM_P2_V1_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_Normal.RM_P2_V1_Normal
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_P2_V1_OcclusionRoughnessMetallic.RM_P2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_BaseColor.RM_T1_V1_BaseColor
+[2024.06.16-17.29.12:178][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_Normal.RM_T1_V1_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_T1_V1_OcclusionRoughnessMetallic.RM_T1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_OcclusionRoughnessMetallic.RM_T2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_BaseColor.RM_T2_V1_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_BaseColor.RM_V1_V1_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_Normal.RM_V1_V1_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_T2_V1_Normal.RM_T2_V1_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_V1_V1_OcclusionRoughnessMetallic.RM_V1_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_BaseColor.RM_V2_V1_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_Normal.RM_V2_V1_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V1/RM_V2_V1_OcclusionRoughnessMetallic.RM_V2_V1_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_BaseColor.RM_M1_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_Normal.RM_M1_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_M1_V2_OcclusionRoughnessMetallic.RM_M1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_BaseColor.RM_M2_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_Normal.RM_M2_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_M2_V2_OcclusionRoughnessMetallic.RM_M2_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_BaseColor.RM_P1_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_Normal.RM_P1_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_P1_V2_OcclusionRoughnessMetallic.RM_P1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_BaseColor.RM_P2_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_Normal.RM_P2_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_P2_V2_OcclusionRoughnessMetallic.RM_P2_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_BaseColor.RM_T1_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_Normal.RM_T1_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_T1_V2_OcclusionRoughnessMetallic.RM_T1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_BaseColor.RM_T2_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_Normal.RM_T2_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_T2_V2_OcclusionRoughnessMetallic.RM_T2_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_BaseColor.RM_V1_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_Normal.RM_V1_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_V1_V2_OcclusionRoughnessMetallic.RM_V1_V2_OcclusionRoughnessMetallic
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_BaseColor.RM_V2_V2_BaseColor
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_Normal.RM_V2_V2_Normal
+[2024.06.16-17.29.12:179][ 84]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Buildings/RM/RM_Textures/RM_V2/RM_V2_V2_OcclusionRoughnessMetallic.RM_V2_V2_OcclusionRoughnessMetallic
