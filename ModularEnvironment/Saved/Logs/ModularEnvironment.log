@@ -12947,3 +12947,1506 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.16-18.33.37:504][532]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
 [2024.06.16-18.33.37:504][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.06.16-18.33.40:842][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.16-18.41.00:865][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_M1.B_RM_M1
+[2024.06.16-18.41.00:865][648]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_M1.B_RM_M1
+[2024.06.16-18.41.00:865][648]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_M1.B_RM_M1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_21
+[2024.06.16-18.41.01:983][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_M1.B_RM_M1
+[2024.06.16-18.41.01:983][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_M1.B_RM_M1
+[2024.06.16-18.41.01:984][773]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_M1.B_RM_M1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_22
+[2024.06.16-18.41.02:530][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.41.07:057][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V1.B_RM_V1
+[2024.06.16-18.41.07:057][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V1.B_RM_V1
+[2024.06.16-18.41.07:058][332]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_V1.B_RM_V1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_23
+[2024.06.16-18.41.08:162][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V1.B_RM_V1
+[2024.06.16-18.41.08:162][448]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V1.B_RM_V1
+[2024.06.16-18.41.08:163][448]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_V1.B_RM_V1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_24
+[2024.06.16-18.41.19:820][776]LogEditorViewport: Clicking Background
+[2024.06.16-18.41.23:256][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P2.B_RM_P2
+[2024.06.16-18.41.23:256][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P2.B_RM_P2
+[2024.06.16-18.41.23:257][153]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_P2.B_RM_P2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_25
+[2024.06.16-18.41.24:478][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P2.B_RM_P2
+[2024.06.16-18.41.24:478][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P2.B_RM_P2
+[2024.06.16-18.41.24:479][287]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_P2.B_RM_P2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_26
+[2024.06.16-18.41.28:667][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P1.B_RM_P1
+[2024.06.16-18.41.28:667][738]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P1.B_RM_P1
+[2024.06.16-18.41.28:668][738]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_P1.B_RM_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_27
+[2024.06.16-18.41.29:817][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P1.B_RM_P1
+[2024.06.16-18.41.29:817][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_P1.B_RM_P1
+[2024.06.16-18.41.29:818][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_P1.B_RM_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_28
+[2024.06.16-18.41.30:295][907]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.41.59:198][ 19]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V1/RM_M1_V1.RM_M1_V1
+[2024.06.16-18.41.59:201][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.41.59:201][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.41.59:345][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.41.59:345][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.41.59:345][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.41.59:345][ 19]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.41.59:356][ 19]LogViewport: Scene viewport resized to 632x628, mode Windowed.
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: ================================================
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Total job queries 8181, among them cache hits 7996 (97.74%)
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 95 distinct outputs (51.35%)
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: RAM used: 4,49 MiB of 1,60 GiB budget. Usage: 0.27%
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Shaders Compiled: 185
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Jobs assigned 185, completed 185 (100%)
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Average time worker was idle: 113.32 s
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 3.08 s
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 5.42 s
+[2024.06.16-18.41.59:403][ 20]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 5.43
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Shader code size: average 42,07 KiB, min 29,613 KiB, max 72,258 KiB
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.12 s
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Jobs were issued in 160 batches (only local compilation was used), average 1.16 jobs/batch
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Average processing rate: 9.20 jobs/sec
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Total thread time: 64,531 s
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Total thread preprocess time: 5,536 s
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Percentage time preprocessing: 8.58%
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Effective parallelization: 3.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.53 sec, min 0.41 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 0.96 sec, max 1.51 sec, min 0.41 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 0.85 sec, max 1.31 sec, min 0.39 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 0.82 sec, max 1.25 sec, min 0.38 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.74% of total time (compiled   23 times, average 0.33 sec, max 1.35 sec, min 0.21 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.32% of total time (compiled   22 times, average 0.27 sec, max 0.34 sec, min 0.23 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.61% of total time (compiled   16 times, average 0.27 sec, max 0.35 sec, min 0.24 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.75% of total time (compiled    8 times, average 0.46 sec, max 1.40 sec, min 0.30 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.70% of total time (compiled    8 times, average 0.46 sec, max 1.25 sec, min 0.30 sec)
+[2024.06.16-18.41.59:404][ 20]LogShaderCompilers: Display: ================================================
+[2024.06.16-18.41.59:435][ 21]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.41.59:435][ 21]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.41.59:435][ 21]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.41.59:435][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.41.59:435][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.41.59:435][ 21]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.42.04:728][413]LogSlate: Window 'RM_M1_V1' being destroyed
+[2024.06.16-18.42.04:749][413]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.42.04:749][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.42.05:861][516]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V1/RM_M2_V1.RM_M2_V1
+[2024.06.16-18.42.05:864][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.42.05:864][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.42.06:009][516]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.42.06:009][516]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.06:009][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.06:009][516]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.42.06:018][516]LogViewport: Scene viewport resized to 632x628, mode Windowed.
+[2024.06.16-18.42.06:098][518]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.42.06:098][518]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.42.06:098][518]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.42.06:098][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.06:098][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.06:098][518]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.42.08:683][709]LogSlate: Window 'RM_M2_V1' being destroyed
+[2024.06.16-18.42.08:691][709]LogSlate: Window 'RM_M2_V1' being destroyed
+[2024.06.16-18.42.08:705][709]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.42.08:705][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.42.13:310][117]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V1/RM_P1_V1.RM_P1_V1
+[2024.06.16-18.42.13:314][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.42.13:314][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.42.13:460][117]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.42.13:460][117]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.13:460][117]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.13:460][117]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.42.13:468][117]LogViewport: Scene viewport resized to 632x628, mode Windowed.
+[2024.06.16-18.42.13:546][119]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.42.13:546][119]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.42.13:546][119]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.42.13:546][119]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.13:546][119]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.13:546][119]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.42.22:299][870]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_M2_V2.RM_M2_V2
+[2024.06.16-18.42.22:303][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.42.22:303][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.42.22:425][870]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.42.22:425][870]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.22:425][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.22:425][870]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.42.22:434][870]LogViewport: Scene viewport resized to 632x628, mode Windowed.
+[2024.06.16-18.42.22:517][872]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.42.22:517][872]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.42.22:517][872]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.42.22:517][872]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.22:517][872]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.22:517][872]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.42.35:707][ 29]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.42.35:707][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.35:707][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.35:707][ 29]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.42.35:823][ 30]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.42.35:823][ 30]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.42.35:823][ 30]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.42.35:823][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.35:823][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.35:823][ 30]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.42.45:640][909]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.42.45:640][909]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.45:640][909]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.45:640][909]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.42.45:756][910]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.42.45:756][910]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.42.45:756][910]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.42.45:756][910]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.42.45:756][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.42.45:756][910]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.00:394][276]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.00:394][276]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.00:394][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.00:394][276]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.00:420][277]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.00:420][277]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.00:420][277]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.00:420][277]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.00:420][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.00:420][277]MaterialEditorStats: Shader Count: 2
+[2024.06.16-18.43.01:564][352]LogMaterialEditor: Saving and Compiling material RM_M2_V2
+[2024.06.16-18.43.01:673][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.06.16-18.43.01:824][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.16-18.43.01:834][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-18.43.01:922][352]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/RM_M2_V2
+[2024.06.16-18.43.01:923][352]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M2_V291BD46E14DF07A2F9A7E048B6B3A27C3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/RM_M2_V2.uasset'
+[2024.06.16-18.43.01:929][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 34.1 sec)
+[2024.06.16-18.43.01:930][352]AssetCheck: New page: Asset Save: RM_M2_V2
+[2024.06.16-18.43.01:930][352]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/RM_M2_V2.RM_M2_V2
+[2024.06.16-18.43.01:930][352]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.01:930][352]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.01:930][352]MaterialEditorStats: MaxSampler: 256 instructions
+[2024.06.16-18.43.01:930][352]MaterialEditorStats: Texture samplers: 6/16
+[2024.06.16-18.43.01:930][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.01:930][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.01:930][352]MaterialEditorStats: Shader Count: 16
+[2024.06.16-18.43.02:033][355]LogViewport: Scene viewport resized to 361x309, mode Windowed.
+[2024.06.16-18.43.02:654][355]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.08:210][762]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_V2_V2.RM_V2_V2
+[2024.06.16-18.43.08:215][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.43.08:215][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.43.08:335][762]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.08:335][762]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.08:335][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.08:335][762]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.08:343][762]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.08:417][764]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.08:418][764]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.08:418][764]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.08:418][764]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.08:418][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.08:418][764]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.08:887][791]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_V1_V2.RM_V1_V2
+[2024.06.16-18.43.08:890][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.43.08:890][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.43.09:008][791]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.09:008][791]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.09:008][791]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.09:008][791]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.09:017][791]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.09:091][793]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.09:091][793]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.09:091][793]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.09:091][793]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.09:091][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.09:091][793]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.09:441][812]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_T2_V2.RM_T2_V2
+[2024.06.16-18.43.09:445][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.43.09:445][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.43.09:575][812]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.09:575][812]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.09:575][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.09:575][812]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.09:583][812]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.09:663][814]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.09:663][814]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.09:663][814]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.09:665][814]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.09:665][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.09:665][814]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.09:978][834]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_T1_V2.RM_T1_V2
+[2024.06.16-18.43.09:982][834]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.43.09:982][834]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.43.10:111][834]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.10:111][834]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.10:111][834]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.10:111][834]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.10:120][834]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.10:197][836]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.10:197][836]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.10:197][836]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.10:197][836]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.10:197][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.10:197][836]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.10:478][854]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_RM_M1_V2.RM_RM_M1_V2
+[2024.06.16-18.43.10:482][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.43.10:482][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.43.10:611][854]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.10:612][854]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.10:612][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.10:612][854]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.10:620][854]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.10:698][856]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.10:698][856]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.10:698][856]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.10:698][856]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.10:698][856]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.10:698][856]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.11:000][873]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_P2_V2.RM_P2_V2
+[2024.06.16-18.43.11:006][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.43.11:006][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.43.11:139][873]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.11:139][873]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.11:139][873]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.11:139][873]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.11:148][873]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.11:222][875]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.11:222][875]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.11:222][875]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.11:222][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.11:222][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.11:222][875]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.11:523][895]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Buildings/RM/RM_Material_V2/RM_P1_V2.RM_P1_V2
+[2024.06.16-18.43.11:527][895]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.16-18.43.11:527][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.16-18.43.11:674][895]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.11:674][895]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.11:674][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.11:674][895]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.11:685][895]LogViewport: Scene viewport resized to 471x448, mode Windowed.
+[2024.06.16-18.43.11:759][897]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.11:759][897]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.11:759][897]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.11:759][897]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.11:759][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.11:759][897]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.18:533][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V2.B_RM_V2
+[2024.06.16-18.43.18:534][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V2.B_RM_V2
+[2024.06.16-18.43.18:534][379]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_V2.B_RM_V2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_29
+[2024.06.16-18.43.20:739][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V2.B_RM_V2
+[2024.06.16-18.43.20:739][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_V2.B_RM_V2
+[2024.06.16-18.43.20:740][560]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_V2.B_RM_V2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_30
+[2024.06.16-18.43.25:434][912]LogEditorViewport: Clicking Background
+[2024.06.16-18.43.44:834][611]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.44:834][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.44:834][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.44:834][611]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.44:947][612]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.44:948][612]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.44:948][612]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.44:948][612]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.44:948][612]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.44:948][612]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.48:239][885]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.48:239][885]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.48:239][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.48:239][885]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.48:355][886]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.48:355][886]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.48:355][886]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.48:355][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.48:355][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.48:355][886]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.51:602][152]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.43.51:603][152]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.51:603][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.51:603][152]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.43.51:720][153]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.51:720][153]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.51:720][153]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.43.51:720][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.51:720][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.51:720][153]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.43.52:667][223]LogMaterialEditor: Saving and Compiling material RM_P1_V2
+[2024.06.16-18.43.52:781][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.16-18.43.52:926][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.16-18.43.52:935][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-18.43.53:016][223]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/RM_P1_V2
+[2024.06.16-18.43.53:016][223]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P1_V2E356DFDC4B306AA6132EB0A938B7770A.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/RM_P1_V2.uasset'
+[2024.06.16-18.43.53:022][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 34.2 sec)
+[2024.06.16-18.43.53:023][223]AssetCheck: New page: Asset Save: RM_P1_V2
+[2024.06.16-18.43.53:023][223]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/RM_P1_V2.RM_P1_V2
+[2024.06.16-18.43.53:024][223]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.43.53:024][223]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.43.53:024][223]MaterialEditorStats: MaxSampler: 256 instructions
+[2024.06.16-18.43.53:024][223]MaterialEditorStats: Texture samplers: 6/16
+[2024.06.16-18.43.53:024][223]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.43.53:024][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.43.53:024][223]MaterialEditorStats: Shader Count: 16
+[2024.06.16-18.43.55:580][410]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.43.55:580][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.44.03:989][124]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.44.03:989][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.44.03:989][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.44.03:989][124]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.44.04:106][125]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.44.04:106][125]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.44.04:106][125]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.44.04:106][125]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.44.04:106][125]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.44.04:106][125]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.44.10:587][689]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.44.10:587][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.44.10:587][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.44.10:587][689]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.44.10:703][690]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.44.10:703][690]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.44.10:703][690]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.44.10:703][690]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.44.10:703][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.44.10:703][690]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.44.16:071][156]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.44.16:071][156]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.44.16:071][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.44.16:071][156]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.44.16:187][157]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.44.16:187][157]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.44.16:187][157]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.44.16:187][157]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.44.16:187][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.44.16:187][157]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.44.17:441][245]LogMaterialEditor: Saving and Compiling material RM_P2_V2
+[2024.06.16-18.44.17:554][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.16-18.44.17:701][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-18.44.17:712][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-18.44.17:810][245]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/RM_P2_V2
+[2024.06.16-18.44.17:810][245]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V2614E71C7451BF0030663809BA9E297C3.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/RM_P2_V2.uasset'
+[2024.06.16-18.44.17:817][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 34.3 sec)
+[2024.06.16-18.44.17:818][245]AssetCheck: New page: Asset Save: RM_P2_V2
+[2024.06.16-18.44.17:818][245]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/RM_P2_V2.RM_P2_V2
+[2024.06.16-18.44.17:819][245]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.44.17:819][245]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.44.17:819][245]MaterialEditorStats: MaxSampler: 256 instructions
+[2024.06.16-18.44.17:819][245]MaterialEditorStats: Texture samplers: 6/16
+[2024.06.16-18.44.17:819][245]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.44.17:819][245]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.44.17:819][245]MaterialEditorStats: Shader Count: 16
+[2024.06.16-18.44.49:362][583]LogEditorViewport: Clicking Background
+[2024.06.16-18.44.55:012][ 18]LogEditorViewport: Clicking Background
+[2024.06.16-18.45.02:601][603]Cmd: TRANSACTION UNDO
+[2024.06.16-18.45.02:601][603]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.45.07:257][924]LogEditorViewport: Clicking Background
+[2024.06.16-18.45.14:125][455]Cmd: TRANSACTION UNDO
+[2024.06.16-18.45.14:125][455]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.45.15:746][546]Cmd: TRANSACTION UNDO
+[2024.06.16-18.45.15:746][546]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.45.32:076][758]Cmd: TRANSACTION UNDO
+[2024.06.16-18.45.32:076][758]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.45.53:059][319]LogMaterialEditor: Saving and Compiling material RM_P2_V2
+[2024.06.16-18.45.53:062][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-18.45.53:095][319]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/RM_P2_V2
+[2024.06.16-18.45.53:095][319]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_P2_V2373E30A948902FDC5F9AE7A9C23C6C49.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/RM_P2_V2.uasset'
+[2024.06.16-18.45.53:105][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 34.3 sec)
+[2024.06.16-18.45.53:106][319]AssetCheck: New page: Asset Save: RM_P2_V2
+[2024.06.16-18.45.53:106][319]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/RM_P2_V2.RM_P2_V2
+[2024.06.16-18.45.54:222][403]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.45.54:222][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: ================================================
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: Total job queries 8463, among them cache hits 8278 (97.81%)
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 95 distinct outputs (51.35%)
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: RAM used: 4,49 MiB of 1,60 GiB budget. Usage: 0.27%
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: Shaders Compiled: 185
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: Jobs assigned 185, completed 185 (100%)
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: Average time worker was idle: 113.32 s
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 3.08 s
+[2024.06.16-18.45.55:805][520]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 5.42 s
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 5.43
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Shader code size: average 42,07 KiB, min 29,613 KiB, max 72,258 KiB
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.12 s
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Jobs were issued in 160 batches (only local compilation was used), average 1.16 jobs/batch
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Average processing rate: 9.20 jobs/sec
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Total thread time: 64,531 s
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Total thread preprocess time: 5,536 s
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Percentage time preprocessing: 8.58%
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Effective parallelization: 3.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.53 sec, min 0.41 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 0.96 sec, max 1.51 sec, min 0.41 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 0.85 sec, max 1.31 sec, min 0.39 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 0.82 sec, max 1.25 sec, min 0.38 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.74% of total time (compiled   23 times, average 0.33 sec, max 1.35 sec, min 0.21 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.32% of total time (compiled   22 times, average 0.27 sec, max 0.34 sec, min 0.23 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.61% of total time (compiled   16 times, average 0.27 sec, max 0.35 sec, min 0.24 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.75% of total time (compiled    8 times, average 0.46 sec, max 1.40 sec, min 0.30 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.70% of total time (compiled    8 times, average 0.46 sec, max 1.25 sec, min 0.30 sec)
+[2024.06.16-18.45.55:806][520]LogShaderCompilers: Display: ================================================
+[2024.06.16-18.46.05:900][451]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.46.05:900][451]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.46.05:900][451]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.46.05:900][451]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.46.06:015][452]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.46.06:015][452]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.46.06:015][452]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.46.06:015][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.46.06:015][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.46.06:015][452]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.46.22:929][997]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.46.22:929][997]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.46.22:929][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.46.22:929][997]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.46.23:045][998]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.46.23:045][998]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.46.23:045][998]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.46.23:045][998]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.46.23:045][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.46.23:045][998]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.46.47:700][268]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.16-18.46.47:700][268]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.46.47:700][268]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.46.47:700][268]MaterialEditorStats: Shader Count: 0
+[2024.06.16-18.46.47:814][269]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.46.47:814][269]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.46.47:814][269]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.16-18.46.47:814][269]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.46.47:814][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.46.47:814][269]MaterialEditorStats: Shader Count: 4
+[2024.06.16-18.46.48:878][348]LogMaterialEditor: Saving and Compiling material RM_RM_M1_V2
+[2024.06.16-18.46.49:007][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-18.46.49:152][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.16-18.46.49:162][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-18.46.49:241][348]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/RM_RM_M1_V2
+[2024.06.16-18.46.49:242][348]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_RM_M1_V25732DE7B48DD6B89E087BFA26DC236B4.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/RM_RM_M1_V2.uasset'
+[2024.06.16-18.46.49:247][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 34.4 sec)
+[2024.06.16-18.46.49:249][348]AssetCheck: New page: Asset Save: RM_RM_M1_V2
+[2024.06.16-18.46.49:249][348]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/RM_RM_M1_V2.RM_RM_M1_V2
+[2024.06.16-18.46.49:249][348]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.06.16-18.46.49:249][348]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.16-18.46.49:250][348]MaterialEditorStats: MaxSampler: 256 instructions
+[2024.06.16-18.46.49:250][348]MaterialEditorStats: Texture samplers: 6/16
+[2024.06.16-18.46.49:250][348]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.16-18.46.49:250][348]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.16-18.46.49:250][348]MaterialEditorStats: Shader Count: 16
+[2024.06.16-18.46.55:970][859]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.46.55:970][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.47.07:972][728]LogContentBrowser: Attempting asset rename: RM_RM_M1_V2 -> RM_M1_V2
+[2024.06.16-18.47.08:007][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-18.47.08:037][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Buildings/RM/B_RM_M1" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/B_RM_M1.uasset" SILENT=true
+[2024.06.16-18.47.08:038][728]LogSavePackage: Moving output files for package: /Game/Buildings/RM/B_RM_M1
+[2024.06.16-18.47.08:039][728]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/B_RM_M1E87A7D7F40C17DF6F36A5C8A93C9A7C1.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/B_RM_M1.uasset'
+[2024.06.16-18.47.08:041][728]LogSavePackage: Moving output files for package: /Game/Buildings/RM/RM_Material_V2/RM_M1_V2
+[2024.06.16-18.47.08:041][728]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/RM_M1_V23861F8B94EA66816F2F5D58564AB53EA.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/Buildings/RM/RM_Material_V2/RM_M1_V2.uasset'
+[2024.06.16-18.47.08:047][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 34.5 sec)
+[2024.06.16-18.47.08:056][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.16-18.47.08:065][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.16-18.47.08:071][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.16-18.47.08:073][728]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.16-18.47.08:073][728]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Buildings/RM/B_RM_M1.B_RM_M1
+[2024.06.16-18.47.08:073][728]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Buildings/RM/RM_Material_V2/RM_M1_V2.RM_M1_V2
+[2024.06.16-18.47.15:779][293]Cmd: TRANSACTION UNDO
+[2024.06.16-18.47.15:779][293]LogEditorTransaction: Undo Move Elements
+[2024.06.16-18.47.25:382][974]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.47.26:563][ 56]LogEditorViewport: Clicking Background
+[2024.06.16-18.47.40:450][147]Cmd: TRANSACTION UNDO
+[2024.06.16-18.47.40:451][147]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.47.58:404][477]Cmd: TRANSACTION UNDO
+[2024.06.16-18.47.58:404][477]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.48.05:870][ 11]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.48.07:251][101]Cmd: TRANSACTION UNDO
+[2024.06.16-18.48.07:251][101]LogEditorTransaction: Undo Move Elements
+[2024.06.16-18.48.39:899][482]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.48.56:766][731]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.49.23:051][667]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.49.26:351][902]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.49.28:714][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.49.29:292][109]LogEditorViewport: Clicking Background
+[2024.06.16-18.49.34:713][518]LogEditorViewport: Clicking Background
+[2024.06.16-18.49.35:235][559]LogEditorViewport: Clicking Background
+[2024.06.16-18.49.37:828][756]LogEditorViewport: Clicking Background
+[2024.06.16-18.49.39:653][895]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.49.44:104][231]LogEditorViewport: Clicking Background
+[2024.06.16-18.49.46:365][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.49.49:053][607]LogEditorViewport: Clicking Background
+[2024.06.16-18.50.02:624][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.50.14:592][493]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.50.20:181][903]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.50.24:391][213]LogEditorViewport: Clicking Background
+[2024.06.16-18.50.27:987][491]LogEditorViewport: Clicking Background
+[2024.06.16-18.50.36:896][182]LogEditorViewport: Clicking Background
+[2024.06.16-18.50.37:559][228]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.50.43:032][638]LogEditorViewport: Clicking Background
+[2024.06.16-18.50.44:259][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.50.48:826][ 58]LogEditorViewport: Clicking Background
+[2024.06.16-18.50.57:390][708]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.51.06:204][378]Cmd: TRANSACTION UNDO
+[2024.06.16-18.51.06:204][378]LogEditorTransaction: Undo Move Elements
+[2024.06.16-18.51.22:210][540]Cmd: TRANSACTION UNDO
+[2024.06.16-18.51.22:210][540]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.51.32:429][283]Cmd: TRANSACTION UNDO
+[2024.06.16-18.51.32:429][283]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.51.32:448][283]Cmd: EDIT CUT
+[2024.06.16-18.51.32:454][283]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.16-18.51.32:458][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.16-18.51.32:465][283]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.06.16-18.51.33:850][369]Cmd: TRANSACTION UNDO
+[2024.06.16-18.51.33:850][369]LogEditorTransaction: Undo Cut
+[2024.06.16-18.51.39:308][762]Cmd: TRANSACTION UNDO
+[2024.06.16-18.51.39:309][762]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.52.45:049][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T1.B_RM_T1
+[2024.06.16-18.52.45:049][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T1.B_RM_T1
+[2024.06.16-18.52.45:050][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_T1.B_RM_T1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_39
+[2024.06.16-18.52.46:316][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T1.B_RM_T1
+[2024.06.16-18.52.46:317][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T1.B_RM_T1
+[2024.06.16-18.52.46:318][743]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_T1.B_RM_T1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_40
+[2024.06.16-18.52.48:199][875]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.52.52:439][195]LogEditorViewport: Clicking Background
+[2024.06.16-18.53.07:886][344]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.53.11:522][611]Cmd: TRANSACTION UNDO
+[2024.06.16-18.53.11:522][611]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.53.22:752][406]Cmd: TRANSACTION UNDO
+[2024.06.16-18.53.22:752][406]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.53.23:991][471]Cmd: TRANSACTION UNDO
+[2024.06.16-18.53.23:991][471]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.53.51:494][522]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.54.02:231][329]LogEditorViewport: Clicking Background
+[2024.06.16-18.54.21:865][828]Cmd: TRANSACTION UNDO
+[2024.06.16-18.54.21:865][828]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.54.24:430][992]LogEditorViewport: Clicking Background
+[2024.06.16-18.54.29:834][406]LogEditorViewport: Clicking Background
+[2024.06.16-18.54.37:332][964]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.54.46:823][688]LogEditorViewport: Clicking Background
+[2024.06.16-18.55.01:445][828]Cmd: TRANSACTION UNDO
+[2024.06.16-18.55.01:445][828]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.55.31:103][975]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T2.B_RM_T2
+[2024.06.16-18.55.31:103][975]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T2.B_RM_T2
+[2024.06.16-18.55.31:103][975]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_T2.B_RM_T2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_44
+[2024.06.16-18.55.33:180][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T2.B_RM_T2
+[2024.06.16-18.55.33:180][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/RM/B_RM_T2.B_RM_T2
+[2024.06.16-18.55.33:181][130]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/RM/B_RM_T2.B_RM_T2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_45
+[2024.06.16-18.55.58:601][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.56.08:260][791]LogEditorViewport: Clicking Background
+[2024.06.16-18.56.11:308][ 19]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.56.14:530][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.06.16-18.56.14:538][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-18.56.14:564][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TokyoStreet" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.16-18.56.14:590][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.16-18.56.14:598][268]LogSavePackage: Moving output files for package: /Game/TokyoStreet
+[2024.06.16-18.56.14:599][268]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/TokyoStreet50DB09F946AD978DB6277CB1A0A9B881.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap'
+[2024.06.16-18.56.14:604][268]LogFileHelpers: Saving map 'TokyoStreet' took 0.039
+[2024.06.16-18.56.14:624][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 34.5 sec)
+[2024.06.16-18.56.14:626][268]AssetCheck: New page: Asset Save: TokyoStreet
+[2024.06.16-18.56.14:626][268]LogContentValidation: Display: Validating /Script/Engine.World /Game/TokyoStreet.TokyoStreet
+[2024.06.16-18.56.16:043][366]LogSlate: Window 'RM_T1_V2' being destroyed
+[2024.06.16-18.56.16:050][366]LogSlate: Window 'RM_T1_V2' being destroyed
+[2024.06.16-18.56.16:067][366]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.56.16:068][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.56.16:093][366]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.56.16:093][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.56.16:118][366]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.56.16:118][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.56.16:143][366]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.56.16:143][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.56.16:168][366]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.56.16:168][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.56.16:192][366]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-18.56.16:192][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-18.56.35:321][568]LogEditorViewport: Clicking Background
+[2024.06.16-18.56.45:306][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.56.49:369][ 86]LogViewport: Scene viewport resized to 2101x899, mode Windowed.
+[2024.06.16-18.56.49:391][ 87]LogViewport: Scene viewport resized to 2101x901, mode Windowed.
+[2024.06.16-18.56.49:432][ 88]LogViewport: Scene viewport resized to 2101x909, mode Windowed.
+[2024.06.16-18.56.49:462][ 89]LogViewport: Scene viewport resized to 2101x921, mode Windowed.
+[2024.06.16-18.56.49:494][ 90]LogViewport: Scene viewport resized to 2101x930, mode Windowed.
+[2024.06.16-18.56.49:523][ 91]LogViewport: Scene viewport resized to 2101x937, mode Windowed.
+[2024.06.16-18.56.49:555][ 92]LogViewport: Scene viewport resized to 2101x945, mode Windowed.
+[2024.06.16-18.56.49:584][ 93]LogViewport: Scene viewport resized to 2101x949, mode Windowed.
+[2024.06.16-18.56.49:616][ 94]LogViewport: Scene viewport resized to 2101x951, mode Windowed.
+[2024.06.16-18.56.49:644][ 95]LogViewport: Scene viewport resized to 2101x954, mode Windowed.
+[2024.06.16-18.56.49:677][ 96]LogViewport: Scene viewport resized to 2101x956, mode Windowed.
+[2024.06.16-18.56.49:706][ 97]LogViewport: Scene viewport resized to 2101x957, mode Windowed.
+[2024.06.16-18.56.49:736][ 98]LogViewport: Scene viewport resized to 2101x960, mode Windowed.
+[2024.06.16-18.56.49:765][ 99]LogViewport: Scene viewport resized to 2101x963, mode Windowed.
+[2024.06.16-18.56.49:795][100]LogViewport: Scene viewport resized to 2101x964, mode Windowed.
+[2024.06.16-18.56.49:827][101]LogViewport: Scene viewport resized to 2101x966, mode Windowed.
+[2024.06.16-18.56.53:696][541]LogEditorViewport: Clicking Background
+[2024.06.16-18.57.05:422][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.57.05:422][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.57.05:422][874]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_46
+[2024.06.16-18.57.08:089][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.57.08:089][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.57.08:090][184]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_47
+[2024.06.16-18.57.08:770][242]Cmd: DELETE
+[2024.06.16-18.57.08:771][242]Cmd: ACTOR DELETE
+[2024.06.16-18.57.08:772][242]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.16-18.57.08:781][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-18.57.08:797][242]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.06.16-18.57.09:089][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.09:089][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.09:089][263]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_48
+[2024.06.16-18.57.10:435][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.10:435][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.10:436][401]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_49
+[2024.06.16-18.57.26:529][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M2.B_MT_M2
+[2024.06.16-18.57.26:529][184]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M2.B_MT_M2
+[2024.06.16-18.57.26:529][184]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_M2.B_MT_M2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_50
+[2024.06.16-18.57.28:491][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M2.B_MT_M2
+[2024.06.16-18.57.28:491][401]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M2.B_MT_M2
+[2024.06.16-18.57.28:492][401]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_M2.B_MT_M2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_51
+[2024.06.16-18.57.33:686][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.57.44:366][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.44:366][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.44:366][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_52
+[2024.06.16-18.57.44:962][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.44:962][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.57.44:963][215]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_53
+[2024.06.16-18.57.57:313][597]Cmd: TRANSACTION UNDO
+[2024.06.16-18.57.57:314][597]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.58.01:163][953]LogEditorViewport: Clicking Background
+[2024.06.16-18.58.02:104][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.58.10:721][ 53]LogEditorViewport: Clicking Background
+[2024.06.16-18.58.16:437][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.58.16:437][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.58.16:439][704]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_54
+[2024.06.16-18.58.17:007][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.58.17:008][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3
+[2024.06.16-18.58.17:008][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_M3.B_MT_M3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_55
+[2024.06.16-18.58.26:306][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.58.35:655][885]Cmd: TRANSACTION UNDO
+[2024.06.16-18.58.35:655][885]LogEditorTransaction: Undo Set Location
+[2024.06.16-18.58.45:275][915]Cmd: DELETE
+[2024.06.16-18.58.45:275][915]Cmd: ACTOR DELETE
+[2024.06.16-18.58.45:276][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.16-18.58.45:282][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-18.58.45:288][915]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.06.16-18.58.55:089][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_V2.B_MT_V2
+[2024.06.16-18.58.55:090][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_V2.B_MT_V2
+[2024.06.16-18.58.55:090][ 33]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_V2.B_MT_V2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_56
+[2024.06.16-18.58.56:808][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_V2.B_MT_V2
+[2024.06.16-18.58.56:808][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_V2.B_MT_V2
+[2024.06.16-18.58.56:809][227]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_V2.B_MT_V2 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_57
+[2024.06.16-18.58.57:702][319]Cmd: DELETE
+[2024.06.16-18.58.57:702][319]Cmd: ACTOR DELETE
+[2024.06.16-18.58.57:704][319]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.16-18.58.57:710][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.06.16-18.58.57:713][319]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.16-18.59.08:530][532]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.59.29:566][789]LogEditorViewport: Clicking Background
+[2024.06.16-18.59.33:682][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.59.33:682][232]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.59.33:683][232]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_60
+[2024.06.16-18.59.34:617][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.59.34:617][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1
+[2024.06.16-18.59.34:618][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_P1.B_MT_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_61
+[2024.06.16-18.59.34:789][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-18.59.56:928][885]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.00.02:000][469]LogEditorViewport: Clicking Background
+[2024.06.16-19.00.13:611][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.00.47:968][532]LogEditorViewport: Clicking Background
+[2024.06.16-19.01.01:676][ 57]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.01.06:427][570]Cmd: TRANSACTION UNDO
+[2024.06.16-19.01.06:427][570]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.01.19:054][897]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.01.41:072][331]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.01.59:031][300]Cmd: DELETE
+[2024.06.16-19.01.59:031][300]Cmd: ACTOR DELETE
+[2024.06.16-19.01.59:033][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.16-19.01.59:038][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-19.01.59:050][300]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.06.16-19.02.01:422][550]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.02.14:794][110]LogEditorViewport: Clicking Background
+[2024.06.16-19.02.25:152][220]Cmd: TRANSACTION UNDO
+[2024.06.16-19.02.25:152][220]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.02.57:552][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.16-19.02.57:559][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-19.02.57:584][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TokyoStreet" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.16-19.02.57:610][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.16-19.02.57:620][831]LogSavePackage: Moving output files for package: /Game/TokyoStreet
+[2024.06.16-19.02.57:620][831]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/TokyoStreet0866FEDB4A44BEF5ADCA56B3425B874E.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap'
+[2024.06.16-19.02.57:624][831]LogFileHelpers: Saving map 'TokyoStreet' took 0.041
+[2024.06.16-19.02.57:649][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 34.6 sec)
+[2024.06.16-19.02.57:651][831]AssetCheck: New page: Asset Save: TokyoStreet
+[2024.06.16-19.02.57:651][831]LogContentValidation: Display: Validating /Script/Engine.World /Game/TokyoStreet.TokyoStreet
+[2024.06.16-19.03.38:568][688]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.04.05:589][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T8.B_MT_T8
+[2024.06.16-19.04.05:589][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T8.B_MT_T8
+[2024.06.16-19.04.05:590][429]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T8.B_MT_T8 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_72
+[2024.06.16-19.04.06:954][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T8.B_MT_T8
+[2024.06.16-19.04.06:954][571]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T8.B_MT_T8
+[2024.06.16-19.04.06:955][571]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T8.B_MT_T8 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_73
+[2024.06.16-19.04.18:434][872]Cmd: TRANSACTION UNDO
+[2024.06.16-19.04.18:434][872]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.04.26:231][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.04.32:580][330]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.04.49:132][231]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.05.08:115][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T6.B_MT_T6
+[2024.06.16-19.05.08:115][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T6.B_MT_T6
+[2024.06.16-19.05.08:116][253]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T6.B_MT_T6 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_77
+[2024.06.16-19.05.09:894][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T6.B_MT_T6
+[2024.06.16-19.05.09:894][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T6.B_MT_T6
+[2024.06.16-19.05.09:895][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T6.B_MT_T6 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_78
+[2024.06.16-19.05.15:159][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.05.19:283][453]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.05.28:932][581]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.05.42:733][169]Cmd: TRANSACTION UNDO
+[2024.06.16-19.05.42:733][169]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.06.09:737][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T7.B_MT_T7
+[2024.06.16-19.06.09:737][998]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T7.B_MT_T7
+[2024.06.16-19.06.09:737][998]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T7.B_MT_T7 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_79
+[2024.06.16-19.06.10:668][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T7.B_MT_T7
+[2024.06.16-19.06.10:668][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T7.B_MT_T7
+[2024.06.16-19.06.10:669][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T7.B_MT_T7 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_80
+[2024.06.16-19.06.17:072][772]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.06.31:767][495]Cmd: TRANSACTION UNDO
+[2024.06.16-19.06.31:767][495]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.06.49:641][418]Cmd: TRANSACTION UNDO
+[2024.06.16-19.06.49:641][418]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.07.01:409][640]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.07.12:644][885]LogEditorViewport: Clicking Background
+[2024.06.16-19.07.42:642][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.07.52:355][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.08.04:298][589]Cmd: TRANSACTION UNDO
+[2024.06.16-19.08.04:298][589]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.08.05:525][680]Cmd: TRANSACTION UNDO
+[2024.06.16-19.08.05:526][680]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.08.08:890][ 34]LogEditorViewport: Clicking Background
+[2024.06.16-19.08.12:008][388]Cmd: TRANSACTION UNDO
+[2024.06.16-19.08.12:008][388]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.08.15:872][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.09.05:336][370]Cmd: TRANSACTION UNDO
+[2024.06.16-19.09.05:336][370]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.09.33:946][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T5.B_MT_T5
+[2024.06.16-19.09.33:946][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T5.B_MT_T5
+[2024.06.16-19.09.33:947][526]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T5.B_MT_T5 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_83
+[2024.06.16-19.09.36:002][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T5.B_MT_T5
+[2024.06.16-19.09.36:002][746]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MT/B_MT_T5.B_MT_T5
+[2024.06.16-19.09.36:003][746]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MT/B_MT_T5.B_MT_T5 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_84
+[2024.06.16-19.09.52:253][550]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.09.56:842][ 79]LogEditorViewport: Clicking Background
+[2024.06.16-19.10.06:294][162]Cmd: TRANSACTION UNDO
+[2024.06.16-19.10.06:294][162]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.10.44:369][439]Cmd: TRANSACTION UNDO
+[2024.06.16-19.10.44:369][439]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.10.47:635][726]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.10.57:419][839]Cmd: TRANSACTION UNDO
+[2024.06.16-19.10.57:419][839]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.11.40:035][544]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.11.47:215][382]LogEditorViewport: Clicking Background
+[2024.06.16-19.11.56:983][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.16-19.11.56:996][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-19.11.57:030][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TokyoStreet" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.16-19.11.57:056][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.16-19.11.57:067][487]LogSavePackage: Moving output files for package: /Game/TokyoStreet
+[2024.06.16-19.11.57:068][487]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/TokyoStreetC399211044F8931F3482DAB238BCBCDB.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap'
+[2024.06.16-19.11.57:073][487]LogFileHelpers: Saving map 'TokyoStreet' took 0.043
+[2024.06.16-19.11.57:100][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 34.7 sec)
+[2024.06.16-19.11.57:102][487]AssetCheck: New page: Asset Save: TokyoStreet
+[2024.06.16-19.11.57:102][487]LogContentValidation: Display: Validating /Script/Engine.World /Game/TokyoStreet.TokyoStreet
+[2024.06.16-19.12.03:426][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-19.12.53:615][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.13.25:942][604]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.13.39:531][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M1.B_MM_M1
+[2024.06.16-19.13.39:531][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M1.B_MM_M1
+[2024.06.16-19.13.39:531][ 79]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_M1.B_MM_M1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_88
+[2024.06.16-19.13.43:627][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M1.B_MM_M1
+[2024.06.16-19.13.43:627][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M1.B_MM_M1
+[2024.06.16-19.13.43:628][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_M1.B_MM_M1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_89
+[2024.06.16-19.14.03:083][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.03:083][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.03:083][668]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_90
+[2024.06.16-19.14.04:245][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.04:245][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.04:246][789]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_91
+[2024.06.16-19.14.12:410][742]Cmd: DELETE
+[2024.06.16-19.14.12:410][742]Cmd: ACTOR DELETE
+[2024.06.16-19.14.12:412][742]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.16-19.14.12:419][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.16-19.14.12:427][742]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.06.16-19.14.15:997][129]Cmd: DELETE
+[2024.06.16-19.14.15:997][129]Cmd: ACTOR DELETE
+[2024.06.16-19.14.15:998][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.16-19.14.16:005][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.16-19.14.16:007][129]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2024.06.16-19.14.19:072][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.19:072][447]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.19:072][447]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_92
+[2024.06.16-19.14.20:105][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.20:105][551]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01
+[2024.06.16-19.14.20:106][551]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Normal_01.Suelo_Losa_Modulo_Normal_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_93
+[2024.06.16-19.14.21:022][636]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.14.30:628][696]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.14.32:170][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.14.57:257][655]Cmd: TRANSACTION UNDO
+[2024.06.16-19.14.57:257][655]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.15.01:389][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.15.07:190][687]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.15.36:872][965]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.15.53:860][826]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01
+[2024.06.16-19.15.53:860][826]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01
+[2024.06.16-19.15.53:861][826]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_94
+[2024.06.16-19.15.55:851][ 35]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01
+[2024.06.16-19.15.55:851][ 35]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01
+[2024.06.16-19.15.55:852][ 35]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Ladrillo_01.Suelo_Losa_Modulo_Ladrillo_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_95
+[2024.06.16-19.15.57:190][179]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.16.11:902][838]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.16.25:749][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01
+[2024.06.16-19.16.25:749][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01
+[2024.06.16-19.16.25:749][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_96
+[2024.06.16-19.16.27:718][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01
+[2024.06.16-19.16.27:718][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01
+[2024.06.16-19.16.27:719][602]LogActorFactory: Actor Factory spawned StaticMesh /Game/Suelo/Suelo_Losa_Modulo_Plano_01.Suelo_Losa_Modulo_Plano_01 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_97
+[2024.06.16-19.16.41:150][105]Cmd: TRANSACTION UNDO
+[2024.06.16-19.16.41:150][105]LogEditorTransaction: Undo Move Elements
+[2024.06.16-19.17.01:137][259]Cmd: TRANSACTION UNDO
+[2024.06.16-19.17.01:137][259]LogEditorTransaction: Undo Set Location
+[2024.06.16-19.17.03:575][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.17.14:371][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_V3.B_MM_V3
+[2024.06.16-19.17.14:371][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_V3.B_MM_V3
+[2024.06.16-19.17.14:372][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_V3.B_MM_V3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_99
+[2024.06.16-19.17.17:114][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_V3.B_MM_V3
+[2024.06.16-19.17.17:114][833]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_V3.B_MM_V3
+[2024.06.16-19.17.17:115][833]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_V3.B_MM_V3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_100
+[2024.06.16-19.17.45:706][ 41]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.17.51:171][650]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.18.05:812][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_T1.B_MM_T1
+[2024.06.16-19.18.05:812][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_T1.B_MM_T1
+[2024.06.16-19.18.05:813][272]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_T1.B_MM_T1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_102
+[2024.06.16-19.18.07:733][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_T1.B_MM_T1
+[2024.06.16-19.18.07:733][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_T1.B_MM_T1
+[2024.06.16-19.18.07:735][476]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_T1.B_MM_T1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_103
+[2024.06.16-19.18.10:417][781]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.18.24:642][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_P1.B_MM_P1
+[2024.06.16-19.18.24:642][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_P1.B_MM_P1
+[2024.06.16-19.18.24:643][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_P1.B_MM_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_104
+[2024.06.16-19.18.26:516][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_P1.B_MM_P1
+[2024.06.16-19.18.26:516][603]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_P1.B_MM_P1
+[2024.06.16-19.18.26:517][603]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_P1.B_MM_P1 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_105
+[2024.06.16-19.18.26:616][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.18.31:866][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.18.44:595][668]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.18.57:728][163]LogEditorViewport: Clicking Background
+[2024.06.16-19.19.09:478][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.19.12:721][812]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.19.25:362][246]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.19.31:788][998]LogEditorViewport: Clicking Background
+[2024.06.16-19.20.08:930][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.20.45:700][204]Cmd: DUPLICATE
+[2024.06.16-19.20.45:700][204]Cmd: ACTOR DUPLICATE
+[2024.06.16-19.20.54:939][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.21.02:240][988]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.21.03:784][159]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.16-19.21.46:554][271]LogDerivedDataCache: C:/Users/marin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.167 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13875 files in 15541 folders with total size 3716 MiB.
+[2024.06.16-19.21.56:875][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.16-19.21.56:904][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TokyoStreet_Auto1
+[2024.06.16-19.21.56:904][321]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/TokyoStreet_Auto18390A34F4DE1F56036D971A362C764B4.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Autosaves/Game/TokyoStreet_Auto1.umap'
+[2024.06.16-19.21.56:904][321]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/Autosaves/Game/TokyoStreet_Auto1.umap is in the /Temp path, will not scan.
+[2024.06.16-19.21.56:904][321]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/TokyoStreet_Auto1 is in the /Temp path, will not scan.
+[2024.06.16-19.21.56:904][321]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/TokyoStreet_Auto1 is in the /Temp path, will not scan.
+[2024.06.16-19.21.56:904][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TokyoStreet' took 0.037
+[2024.06.16-19.21.56:904][321]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.06.16-19.27.52:530][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M3.B_MM_M3
+[2024.06.16-19.27.52:530][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M3.B_MM_M3
+[2024.06.16-19.27.52:530][821]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_M3.B_MM_M3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_131
+[2024.06.16-19.27.53:125][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M3.B_MM_M3
+[2024.06.16-19.27.53:125][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Buildings/MM/B_MM_M3.B_MM_M3
+[2024.06.16-19.27.53:126][877]LogActorFactory: Actor Factory spawned StaticMesh /Game/Buildings/MM/B_MM_M3.B_MM_M3 as actor: StaticMeshActor /Game/TokyoStreet.TokyoStreet:PersistentLevel.StaticMeshActor_132
+[2024.06.16-19.28.04:550][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.16-19.28.04:554][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.16-19.28.04:586][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TokyoStreet" FILE="C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.16-19.28.04:611][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.16-19.28.04:627][155]LogSavePackage: Moving output files for package: /Game/TokyoStreet
+[2024.06.16-19.28.04:628][155]LogSavePackage: Moving 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Saved/TokyoStreet43E76DDC437A3FCECD7048A9071091C5.tmp' to 'C:/Users/marin/Documents/GitHub/ModularEnvironment_TFG/ModularEnvironment/Content/TokyoStreet.umap'
+[2024.06.16-19.28.04:633][155]LogFileHelpers: Saving map 'TokyoStreet' took 0.047
+[2024.06.16-19.28.04:658][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 34.8 sec)
+[2024.06.16-19.28.04:660][155]AssetCheck: New page: Asset Save: TokyoStreet
+[2024.06.16-19.28.04:660][155]LogContentValidation: Display: Validating /Script/Engine.World /Game/TokyoStreet.TokyoStreet
+[2024.06.16-19.28.06:690][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.16-19.28.06:691][385]LogStall: Shutdown...
+[2024.06.16-19.28.06:695][385]LogStall: Shutdown complete.
+[2024.06.16-19.28.06:731][385]LogSlate: Window 'ModularEnvironment - Unreal Editor' being destroyed
+[2024.06.16-19.28.06:856][386]Cmd: QUIT_EDITOR
+[2024.06.16-19.28.06:856][386]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.16-19.28.06:858][386]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.16-19.28.06:858][386]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.16-19.28.06:858][386]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.16-19.28.06:860][386]LogWorld: UWorld::CleanupWorld for TokyoStreet, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-19.28.06:861][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.16-19.28.06:865][386]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.16-19.28.07:292][386]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.16-19.28.07:292][386]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.16-19.28.07:292][386]LogAudio: Display: Audio Device unregistered from world 'TokyoStreet'.
+[2024.06.16-19.28.07:292][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.16-19.28.07:298][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.16-19.28.07:299][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.16-19.28.07:304][386]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.16-19.28.07:305][386]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2024.06.16-19.28.07:308][386]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.16-19.28.07:308][386]LogExit: Preparing to exit.
+[2024.06.16-19.28.07:334][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.16-19.28.08:360][386]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-19.28.08:360][386]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.16-19.28.08:428][386]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.16-19.28.08:435][386]LogExit: Editor shut down
+[2024.06.16-19.28.08:442][386]LogExit: Transaction tracking system shut down
+[2024.06.16-19.28.08:500][386]LogExit: Object subsystem successfully closed.
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: ================================================
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Total job queries 8519, among them cache hits 8334 (97.83%)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 95 distinct outputs (51.35%)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: RAM used: 4,49 MiB of 1,60 GiB budget. Usage: 0.27%
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Shaders Compiled: 185
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Jobs assigned 185, completed 185 (100%)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Average time worker was idle: 113.32 s
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 3.08 s
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 5.42 s
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 5.43
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Shader code size: average 42,07 KiB, min 29,613 KiB, max 72,258 KiB
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.12 s
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Jobs were issued in 160 batches (only local compilation was used), average 1.16 jobs/batch
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Average processing rate: 9.20 jobs/sec
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Total thread time: 64,531 s
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Total thread preprocess time: 5,536 s
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Percentage time preprocessing: 8.58%
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Effective parallelization: 3.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 0.97 sec, max 1.53 sec, min 0.41 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 0.96 sec, max 1.51 sec, min 0.41 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 0.85 sec, max 1.31 sec, min 0.39 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 0.82 sec, max 1.25 sec, min 0.38 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.74% of total time (compiled   23 times, average 0.33 sec, max 1.35 sec, min 0.21 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.32% of total time (compiled   22 times, average 0.27 sec, max 0.34 sec, min 0.23 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.61% of total time (compiled   16 times, average 0.27 sec, max 0.35 sec, min 0.24 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.75% of total time (compiled    8 times, average 0.46 sec, max 1.40 sec, min 0.30 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.70% of total time (compiled    8 times, average 0.46 sec, max 1.25 sec, min 0.30 sec)
+[2024.06.16-19.28.08:505][386]LogShaderCompilers: Display: ================================================
+[2024.06.16-19.28.08:589][386]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.16-19.28.08:884][386]LogVirtualization: UE::Virtualization was shutdown
+[2024.06.16-19.28.08:900][386]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1062)
+[2024.06.16-19.28.08:900][386]LogModuleManager: Shutting down and abandoning module Voice (1060)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module MaterialEditor (1058)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1056)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module EnvironmentLightingViewer (1054)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1052)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2024.06.16-19.28.08:901][386]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1038)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module AddContentDialog (1034)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1033)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1030)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module AutomationWorker (1028)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module TextureAlignMode (1026)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module BspMode (1024)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module GeometryMode (1022)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (1020)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module SmartSnapping (1018)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1016)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1014)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1012)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1010)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1008)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1006)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module WebMMedia (1004)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1002)
+[2024.06.16-19.28.08:902][386]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1000)
+[2024.06.16-19.28.08:903][386]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (998)
+[2024.06.16-19.28.08:903][386]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (996)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module SequenceRecorder (995)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (992)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (990)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (988)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (986)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (984)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (982)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (980)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module PlanarCut (978)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module FractureEngine (976)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module CharacterAI (974)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module WaveTableEditor (972)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module RigVMEditor (970)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (968)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module GooglePADEditor (966)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (964)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (962)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module IKRigEditor (960)
+[2024.06.16-19.28.08:904][386]LogModuleManager: Shutting down and abandoning module ControlRigEditor (958)
+[2024.06.16-19.28.08:905][386]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.06.16-19.28.08:909][386]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.06.16-19.28.08:944][386]MemoryProfiler: Shutdown
+[2024.06.16-19.28.08:944][386]NetworkingProfiler: Shutdown
+[2024.06.16-19.28.08:944][386]LoadingProfiler: Shutdown
+[2024.06.16-19.28.08:944][386]TimingProfiler: Shutdown
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.06.16-19.28.08:944][386]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.06.16-19.28.08:945][386]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.06.16-19.28.08:946][386]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.06.16-19.28.08:947][386]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.06.16-19.28.09:035][386]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (754)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.06.16-19.28.09:036][386]LogModuleManager: Shutting down and abandoning module LightMixer (748)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (746)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (744)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (742)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (740)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module CollectionManager (739)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (736)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module TakeSequencer (734)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module TakeMovieScene (732)
+[2024.06.16-19.28.09:041][386]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (730)
+[2024.06.16-19.28.09:043][386]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (728)
+[2024.06.16-19.28.09:043][386]LogModuleManager: Shutting down and abandoning module UVEditorTools (726)
+[2024.06.16-19.28.09:043][386]LogModuleManager: Shutting down and abandoning module UVEditor (724)
+[2024.06.16-19.28.09:043][386]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (722)
+[2024.06.16-19.28.09:043][386]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (720)
+[2024.06.16-19.28.09:043][386]LogModuleManager: Shutting down and abandoning module PluginBrowser (718)
+[2024.06.16-19.28.09:043][386]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (716)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (714)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (712)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (710)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module EditorDebugTools (708)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (706)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module CryptoKeys (704)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module CurveEditorTools (702)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module ChangelistReview (700)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (698)
+[2024.06.16-19.28.09:044][386]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (696)
+[2024.06.16-19.28.09:045][386]LogModuleManager: Shutting down and abandoning module InterchangeTests (694)
+[2024.06.16-19.28.09:045][386]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (692)
+[2024.06.16-19.28.09:045][386]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (690)
+[2024.06.16-19.28.09:045][386]LogModuleManager: Shutting down and abandoning module Paper2DEditor (688)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module AlembicImporter (686)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module AlembicLibrary (685)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module TemplateSequence (682)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (680)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module SequencerScripting (678)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (676)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module MediaPlate (674)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module MediaCompositing (672)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module ImgMedia (670)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (668)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (666)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (664)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (662)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (660)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (658)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (656)
+[2024.06.16-19.28.09:046][386]LogOpenImageDenoise: OIDN shutting down
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (654)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (652)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (650)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (648)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (646)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module MeshLODToolset (644)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (642)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module LocalizableMessage (640)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (638)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (636)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (634)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (632)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (630)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (629)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (627)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (624)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module DataflowNodes (622)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (620)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module DataflowEditor (618)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (616)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (614)
+[2024.06.16-19.28.09:046][386]LogModuleManager: Shutting down and abandoning module ChaosNiagara (612)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module FractureEditor (610)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (608)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module BackChannel (606)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (604)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AutomationUtils (602)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (600)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module SynthesisEditor (598)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ResonanceAudio (596)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (594)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (592)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (590)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ModelingOperators (588)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (586)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ModelingComponents (584)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GeometryFramework (583)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (580)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module MeshModelingTools (578)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (576)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InputDebugging (574)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module DynamicMesh (570)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (568)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (566)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GeometryCache (564)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (562)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (560)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (558)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AudioCapture (556)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (555)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (552)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AssetTags (550)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (548)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AppleImageUtils (546)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AndroidPermission (544)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (542)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (540)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (538)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (536)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module UObjectPlugin (534)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (532)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (530)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (528)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeExport (526)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeMessages (524)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GLTFCore (522)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (520)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (518)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (516)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module InterchangeEditor (514)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (512)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module PluginUtils (510)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (508)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module GitSourceControl (506)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module DumpGPUServices (504)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (502)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (500)
+[2024.06.16-19.28.09:047][386]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (498)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module VariantManager (496)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (495)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (490)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (488)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module ControlRigSpline (486)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (484)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (482)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (470)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (468)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module FacialAnimation (466)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module DataValidation (464)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (462)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module TreeMap (461)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module Paper2D (458)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module GameplayCameras (456)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module ActorSequence (454)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (452)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module StructUtils (450)
+[2024.06.16-19.28.09:048][386]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (448)
+[2024.06.16-19.28.09:057][386]LogModuleManager: Shutting down and abandoning module PBIK (446)
+[2024.06.16-19.28.09:057][386]LogModuleManager: Shutting down and abandoning module FullBodyIK (444)
+[2024.06.16-19.28.09:057][386]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (442)
+[2024.06.16-19.28.09:057][386]LogModuleManager: Shutting down and abandoning module TakeRecorder (441)
+[2024.06.16-19.28.09:057][386]LogModuleManager: Shutting down and abandoning module LevelEditor (439)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (438)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (436)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module MainFrame (434)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module HotReload (433)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module ChaosCaching (428)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module Synthesis (426)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module SoundFields (424)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module SignificanceManager (422)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (420)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module RigVM (418)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (416)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (414)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (412)
+[2024.06.16-19.28.09:076][386]LogModuleManager: Shutting down and abandoning module MetasoundEditor (410)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module AudioWidgets (409)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (408)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (404)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module MetasoundEngine (402)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module WaveTable (401)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (399)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (396)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (394)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (392)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (390)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (388)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (382)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (381)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (378)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (376)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module InterchangePipelines (374)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module InterchangeImport (372)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (370)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module InterchangeNodes (368)
+[2024.06.16-19.28.09:077][386]LogModuleManager: Shutting down and abandoning module UdpMessaging (366)
+[2024.06.16-19.28.09:178][386]LogModuleManager: Shutting down and abandoning module TcpMessaging (364)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (362)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module AnimationSharing (360)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module ContentBrowser (352)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module ToolMenus (351)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module ContentBrowserData (349)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (342)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (340)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module IKRig (338)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (336)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module ControlRig (334)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module Constraints (333)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module LevelSequence (331)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module AnimationData (328)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.06.16-19.28.09:279][386]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.06.16-19.28.09:281][386]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.06.16-19.28.09:282][386]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.06.16-19.28.09:282][386]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.06.16-19.28.09:283][386]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.06.16-19.28.09:285][386]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.06.16-19.28.09:285][386]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.06.16-19.28.09:286][386]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.06.16-19.28.09:293][386]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.06.16-19.28.09:293][386]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.06.16-19.28.09:293][386]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.06.16-19.28.09:293][386]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.06.16-19.28.09:294][386]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.06.16-19.28.09:305][386]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.06.16-19.28.09:305][386]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.06.16-19.28.09:305][386]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.06.16-19.28.09:305][386]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.06.16-19.28.09:308][386]LogModuleManager: Shutting down and abandoning module WmfMedia (122)
+[2024.06.16-19.28.09:310][386]LogModuleManager: Shutting down and abandoning module Media (121)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (118)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (116)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module ChaosCloth (114)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (112)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (110)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module ChunkDownloader (108)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (106)
+[2024.06.16-19.28.09:311][386]RenderDocPlugin: plugin has been unloaded.
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module PixWinPlugin (104)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (102)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (100)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (98)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module NiagaraShader (96)
+[2024.06.16-19.28.09:311][386]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (94)
+[2024.06.16-19.28.09:313][386]LogModuleManager: Shutting down and abandoning module XMPP (89)
+[2024.06.16-19.28.09:313][386]LogModuleManager: Shutting down and abandoning module WebSockets (88)
+[2024.06.16-19.28.09:331][386]LogModuleManager: Shutting down and abandoning module HTTP (85)
+[2024.06.16-19.28.09:331][386]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.06.16-19.28.09:331][386]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB3F03C7-4F76-64FF-14D6-D6AC4BC2EDE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2ba60db54115505b600829b6a2b2c003%7Cafd2a5478ee94053acf79c497253dd16%7Cd9be951d-06a0-43d2-84d1-ae914ee8360c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.06.16-19.28.09:342][386]LogModuleManager: Shutting down and abandoning module SSL (84)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (80)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (78)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (76)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module VariantManagerContent (74)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module GLTFExporter (72)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module DatasmithContent (70)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module AISupportModule (68)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module ACLPlugin (66)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.06.16-19.28.09:343][386]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.06.16-19.28.09:344][386]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.06.16-19.28.09:345][386]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.06.16-19.28.09:345][386]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.06.16-19.28.09:345][386]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.06.16-19.28.09:346][386]LogPakFile: Destroying PakPlatformFile
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.06.16-19.28.09:346][386]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.16-19.28.09:502][386]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.16-19.28.09:562][386]LogExit: Exiting.
+[2024.06.16-19.28.09:574][386]Log file closed, 06/16/24 21:28:09
